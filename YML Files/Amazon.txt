@@ -1,0 +1,18 @@
+Product_Name:
+    css: 'h1.a-size-large span.a-size-large'
+    type: Text
+Ratings:
+    css: 'div.centerColAlign span.a-declarative a.a-link-normal span.a-size-base'
+    type: Text
+Questions_Answered:
+    css: 'span.celwidget span.a-size-base'
+    type: Text
+Current_Price:
+    css: 'td.a-span12 span.a-size-medium'
+    type: Text
+Savings:
+    css: td.a-span12.a-color-price
+    type: Text
+Category:
+    css: 'div.a-subheader ul.a-unordered-list'
+    type: Text

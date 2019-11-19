@@ -1,0 +1,51 @@
+﻿Company,Item Description,Sale/Auction Duration (Mins),Inventory (1 = Y/0 = N),Inventory (Approx. #),Watchers,Watchers (Normalized),Questions for Seller/Provider (1 = Y/0 = N),Questions for Seller/Provider (#),weblink
+eBay,Boat,7140,0,0,157,157,N/A,0,https://www.ebay.com/itm/1988-Sea-Ray-34-Sedan-Bridge-New-York/352850975594?hash=item52278e9b6a:g:ceoAAOSwc5Jdyckz
+eBay,Car,2640,0,,449,449,N/A,0,https://www.ebay.com/itm/1963-Chevrolet-Corvette-Split-Window-Coupe/113956526979?&_trksid=p2041548.m738_trksid=p2041664.m738
+eBay,Car,549,0,0,5 per hour (hot),100,N/A,0,https://www.ebay.com/itm/1980-Other-Makes-Renaissance-Cars-Tropica/303352517356?hash=item46a13812ec:g:ufEAAOSwyMVdmEh8
+eBay,Motorcycle,5940,0,0,0,0,N/A,0,https://www.ebay.com/itm/2006-Suzuki-Boulevard/254417524323?hash=item3b3c775663:g:msoAAOSw~BtdF1ku
+eBay,ATV,3420,0,0,21,21,N/A,0,https://www.ebay.com/itm/ATV-4x4-Can-Am-2018-Outlander-450-DPS/183998310071?hash=item2ad72766b7:g:M48AAOSwYCBdGlhi
+eBay,Necklace,0,1,1080,412,412,N/A,0,https://www.ebay.com/itm/Womens-Fashion-Jewelry-925-Sterling-Silver-Plated-Infinity-Cross-Necklace-4-3/183697362840
+eBay,Watch,0,1,205,319 per day (hot),957,N/A,0,https://www.ebay.com/itm/Citizen-Eco-Drive-Mens-Super-Titanium-Calendar-44mm-Bracelet-Watch-AW0060-54A/303251419999
+eBay,Ring,7140,0,0,33,33,N/A,0,https://www.ebay.com/itm/Solid-White-Gold-Approx-1-08ctw-Diamond-Ladies-Vintage-Crossover-Ring-Size-7/392531267037?hash=item5b64afcddd%3Ag%3AJ10AAOSwGf5dydgE&_trkparms=%2526rpp_cid%253D5cdb0c2b5d132c4307166509
+eBay,Wallet,0,1,3500,15 per hour (hot),300,N/A,0,https://www.ebay.com/itm/New-Coach-F58032-F58035-Corner-Zip-Wristlet-New-With-Tags/222767324638?var=522244422047
+eBay,Belts,0,1,1010,291,291,N/A,0,https://www.ebay.com/itm/Genuine-Leather-Belt-For-Men-Ratchet-Belt-Autonomic-Belt-Buckle/333257113408?hash=item4d97abff40:m:maHQ1AeSdtkCXqxnUTPVtqQ&var=542270621708
+eBay,Home Security System,0,1,163,0,0,N/A,0,https://www.ebay.com/itm/WYZE-1080-Camera-PAN-TILT-ZOOM-OPTION-AVAILABLE-STARTER-KITS-NIGHT-VISION/323892845750?hash=item4b69849cb6:m:mkYc9cfXtinWmU1BpZkB-BQ&var=512923447192
+eBay,Laptop,0,1,1072,0,0,N/A,0,https://www.ebay.com/itm/Lenovo-Flex-5-i5-8250U-8G-Memory-512G-PCIe-SSD-15-6-Win10-Home-2-in-1-Laptop/293180120721
+eBay,Camera,0,1,13,17 per hour (hot),340,N/A,0,https://www.ebay.com/itm/Canon-EOS-R-Mirrorless-Digital-Camera-Body-Only/193021842674
+eBay,TV,0,1,128,4 sold in hour (hot),80,N/A,0,https://www.ebay.com/itm/Samsung-QN82Q60R-82-inc-Smart-QLED-4K-Ultra-HD-TV-with-HDR-QN82Q60RAFXZA/183709997240
+eBay,Speaker,0,1,73,0,0,N/A,0,https://www.ebay.com/itm/JBL-Charge-4-Portable-Bluetooth-Speaker-Factory-Certified-Refurbished/372707430350?var=641513501398&_trkparms=%26rpp_cid%3D5cc1dee8e7abc5604619e775%26rpp_icid%3D5cc1dee8e7abc5604619e774
+eBay,Christmas Ornament,0,1,18,0,0,N/A,0,https://www.ebay.com/itm/L-O-L-Surprise-Series-3-Wave-1-Big-Sister-LOL-Doll-Exclusive-Limited-MGA-CHOP/233371145336?epid=10034786741&hash=item3656011478
+eBay,Memorabilia,5880,0,0,45,45,N/A,0,https://www.ebay.com/itm/Miranda-Lambert-UNLABELED-Silver-and-Black-Colored-Double-Gun-Hinged-Cuff/193180869557?_trkparms=%26rpp_cid%3D5d9f95c1d237ff07144230ba%26rpp_icid%3D5d9f95c1d237ff07144230b9
+eBay,Coin,0,1,189,0,0,N/A,0,https://www.ebay.com/itm/Admiral-Gardner-Shipwreck-Coin-NGC-Shipwrecks-1808-East-India-Co-10CASH/233216162260?hash=item364cc439d4:g:6w8AAOSwO7pczF9b
+eBay,Pendant,0,1,7032,920,920,N/A,0,https://www.ebay.com/itm/European-Silver-Charms-Beads-Pendant-Safety-Chain-Fit-925-sterling-Bracelet/192064780027?var=491941603571&_trkparms=%26rpp_cid%3D5cb764258f4c2c091ef55e59%26rpp_icid%3D5cb764258f4c2c091ef55e58
+eBay,Art,7080,0,0,7 per hour (hot),140,N/A,,https://www.ebay.com/itm/RYUIJIE-SIGNED-BLACK-AND-WHITE-PRESS-PHOTOGRAPH-ON-8X10-PAPER-PRICED-TO-SELL/143441175532?hash=item2165c2a3ec:g:G3cAAOSwG8ldzHUg
+eBay,Furniture,0,1,6,1 per hour (hot),20,N/A,0,https://www.ebay.com/itm/Modern-Bonded-Leather-Sectional-Sofa-Small-Space-Configurable-Couch-White/264366491954?hash=item3d8d788932
+eBay,Refrigerator,0,1,11,5 per hour (hot),20,N/A,0,https://www.ebay.com/itm/NIB-Frigidaire-Professional-Refrigerator-Freezer-FPGU19F8TF-FPFU19F8RF-TRIM/273965383931?_trkparms=%26rpp_cid%3D5cd9dd06323ff915ff4ced6c%26rpp_icid%3D5cd9dd06323ff915ff4ced6b
+eBay,Dehydrator,0,1,175,160 per day (hot),480,N/A,0,https://www.ebay.com/itm/ChefWave-6-Tray-Food-Dehydrator-Machine-w-Digital-Control-Stainless-Steel/312663772099?hash=item48cc368bc3:g:TZ4AAOSwoeddga6k
+eBay,Shower Caddy,0,1,1184,2 per hour (hot),40,N/A,0,https://www.ebay.com/itm/4-Tier-Metal-Shower-Corner-Pole-Caddy-Shelf-Rack-Bathroom-Bath-Storage-Organizer/381875207504
+eBay,Generator,0,1,43,0,0,N/A,0,https://www.ebay.com/itm/Pulsar-2300-Watt-Portable-Gas-Powered-Super-Quiet-Inverter-Generator-PG2300is/233159086137
+eBay,Golf Shirt,0,1,674,2 per hour (hot),40,N/A,0,https://www.ebay.com/itm/New-2016-Adidas-Golf-ClimaCool-3-Stripes-Polo-Shirt-Pick-Size-Color/272274021433?var=571109961884&_trkparms=%26rpp_cid%3D5cd9da50d6f0a42837de011b%26rpp_icid%3D5cd9da50d6f0a42837de011a
+eBay,Badminton Set,0,1,200,27 per day (hot),81,N/A,0,https://www.ebay.com/itm/Height-Badminton-Volleyball-Tennis-Beach-Net-Set-Indoor-Outdoor-Games-Green-Red/283490494947?hash=item420159a9e3:m:m2ozWU1WeeNnfxuMJGvg46Q&var=584583763453
+eBay,Hockey Table,0,1,14,37,37,N/A,0,https://www.ebay.com/itm/60-Inch-Air-Powered-Hockey-Table-with-Overhead-Electronic-Scorer-Red-Black/352823534973?hash=item5225ebe57d:g:JCcAAOSwnhldpQKV
+eBay,Snow Skiis,0,1,20,44 per day (hot),132,N/A,0,https://www.ebay.com/itm/2018-Rossignol-Experience-80-HD-Demo-Skis-w-Look-Xpress-11-Bindings-CLEAN/333298654640?hash=item4d9a25ddb0:m:maKwUvFMRWNvJ8LVse-dKLQ:sc:ShippingMethodStandard!32803!US!-1&var=542313590631
+eBay,Pool Cue,0,1,28,14 per day (hot),42,N/A,0,https://www.ebay.com/itm/J-J-New-Champion-Leather-3x6-Hard-Pool-Cue-Case-for-3-Butts-6-Shafts-Free-Bonus/323377702459
+eBay,Transformers,0,1,36,46,46,N/A,0,https://www.ebay.com/itm/Transformers-Studio-Series-16-Transformers-Dark-of-the-Moon-Autobot-Ratchet/323920904588?epid=4022351843&hash=item4b6b30c18c
+eBay,Legos,0,1,5194,2686,2686,N/A,0,https://www.ebay.com/itm/Lego-lot-Bulk-Minifigures-parts-pieces-100-Lego-Star-Wars-City-Etc/322425716846?hash=item4b1212006e:g:0asAAOSwQ69dwiIU
+eBay,Rubix Cube,0,1,5,1 per hour (hot),20,N/A,0,https://www.ebay.com/itm/Speed-Rubix-Cube-Smooth-Magic-Puzzle-Rubic-Stickerless-3x3-Rubiks-Gift-Toy-Play/193198180646
+eBay,Toy Car,0,0,0,4 per hour (hot),80,N/A,0,https://www.ebay.com/itm/1-24-MPC-Mako-Shark-Mk-IV-Slot-Car-Used/333395800127?hash=item4d9ff0303f:g:ZmQAAOSw2bRdy4R3:sc:USPSFirstClass!32803!US!-1
+eBay,Frisbee,0,1,63,0,0,N/A,0,https://www.ebay.com/itm/Discraft-Ultra-Star-175g-Ultimate-Frisbee-Disc-Yellow/133131983552?hash=item1eff48dac0:g:QEUAAOSwuchdREHe
+eBay,Wedge Anchor,0,1,4,0,0,N/A,0,https://www.ebay.com/itm/Red-Head-Wedge-Anchor-3-8-X-3-3-4-Stainless-Steeel-304-50pk-WW-3836/254411086614?hash=item3b3c151b16:g:o94AAOSwdwRc8Xfq
+eBay,Compressor Piping,0,1,114,73,73,N/A,0,https://www.ebay.com/itm/Rapid-Air-Maxline-3-4-Compressed-Air-shop-Piping-Kit/201874351394?hash=item2f00a62522:g:2OcAAOxy0QtR89s-
+eBay,HVAC,0,1,17,38,38,N/A,0,https://www.ebay.com/itm/NEW-4-Ton-Trane-Split-System-Air-Conditioner-AC-Unit-460V-3-Ph-48000-BTU-17-Seer/173975508497?hash=item2881bf9611:g:R2wAAOSwDuldpcdQ
+eBay,Espresso Machine,0,1,4,50,50,N/A,0,https://www.ebay.com/itm/Espresso-machine/283573424064?hash=item42064b0fc0:m:mut4Ep0g429Qt7Gl7me77gQ&var=584811330798
+eBay,Sensor Switch,0,1,30,0,0,N/A,0,https://www.ebay.com/itm/Sensor-Switch-PP20-Power-Pack-Relay-Circuit/152564497161
+eBay,Vinyl Record,0,1,9,19 per day (hot),57,N/A,0,https://www.ebay.com/itm/Billie-Eilish-When-We-All-Fall-Asleep-Where-Do-We-Go-Glow-In-The-Dark-Vinyl-LP/163924598601
+eBay,CD,0,1,2,0,0,N/A,0,https://www.ebay.com/itm/Sviatoslav-Richter-Germany-Gramophone-Concerto-Recording-Japan-3-SACD-w-OBI-NEW/273870571886
+eBay,Speakers,0,1,171,632,632,N/A,0,https://www.ebay.com/itm/2000W-Set-of-2-Bi-Amplified-Bluetooth-Speakers-PA-System-with-3-Channel-Stands/163531434074?hash=item26133ba85a:g:w4gAAOSwtYddNoBy
+eBay,Drums,0,1,113,0,0,N/A,0,https://www.ebay.com/itm/12-13-16-22-3-5-Piece-Complete-Adult-Junior-Drum-Set-w-Full-Cymbals-Kit/153105540279?hash=item23a5cd24b7:m:mxrCuvEelv1JTFeNogCG5Ag&var=452948583719
+eBay,Mandolin,0,1,6,26,26,N/A,0,https://www.ebay.com/itm/Free-Gig-Bag-Hand-Carved-Solid-Spruce-Top-F-Style-Mandolin-Sunburst/274053290433?hash=item3fced959c1:g:lBsAAOSwH7ddpdWH
+eBay,Star Wars Baton,0,1,2,10,10,N/A,0,https://www.ebay.com/itm/Star-Wars-The-Black-Series-Force-FX-Z6-Riot-Control-Baton/323920903106?_trkparms=5373%3A0%7C5374%3AFeatured
+eBay,Slinky,0,1,12,0,0,N/A,0,https://www.ebay.com/itm/The-Original-Slinky-Brand-Metal-Slinky-Classic-Spring-Toy-Fun-Play-Kids-Gift-New/392483703790
+eBay,Toy Train,0,1,29,7 per hour (hot),140,N/A,0,https://www.ebay.com/itm/Electric-Christmas-Train-Track-Set-W-Light-Sound-Real-Smoke-Kids-Toy-Tree-Decor/153701031630?hash=item23c94b9ece:g:2LsAAOSwCDxdtkeN
+eBay,Plush Dolls,0,1,50,79 per day (hot),237,N/A,0,https://www.ebay.com/itm/PICK-ANY-TWO-Mini-5-Squishmallow-Kellytoy-2019-Christmas-Edition-Plush-Dolls/223693054117?hash=item34152520a5:g:Q2AAAOSw74xdl6Lw
+eBay,Toy Truck,0,1,37,101 per day (hot),303,N/A,0,https://www.ebay.com/itm/M2-Chevrolet-Silverado-Stepside-1979-Goodyear-MJS17-1-64/184028469484?hash=item2ad8f398ec:g:3wAAAOSw4O9dxeVT

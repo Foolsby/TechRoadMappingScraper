@@ -1,0 +1,21 @@
+Product:
+    css: h1.normal
+    type: Text
+Price:
+    css: span.text-largest
+    type: Text
+Ratings:
+    css: 'a.text-link-secondary span.text-body'
+    type: Text
+Score:
+    css: 'a.text-link-secondary span.stars-svg'
+    type: Text
+Response_Rate:
+    css: 'div.pt-xs-3 div.text-body'
+    type: Text
+Related_Topic:
+    css: 'li.list-inline-item:nth-of-type(1) a.btn'
+    type: Text
+Seller:
+    css: a.wt-text-link
+    type: Text

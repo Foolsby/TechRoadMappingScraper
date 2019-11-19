@@ -1,0 +1,20 @@
+Requestors:
+    css: 'span.p-x-sm.text-truncate a.show-visited'
+    multiple: true
+    type: Text
+Titles:
+    css: 'div.desktop-row span.p-x-sm.project-name-column'
+    multiple: true
+    type: Text
+HITs:
+    css: span.p-x-sm.task-column
+    multiple: true
+    type: Text
+Reward:
+    css: span.p-x-sm.reward-column
+    multiple: true
+    type: Text
+Created:
+    css: 'span.p-x-sm.created-column span'
+    multiple: true
+    type: Text

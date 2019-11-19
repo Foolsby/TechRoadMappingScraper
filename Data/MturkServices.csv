@@ -1,0 +1,944 @@
+,Requestors,Titles,HITs,Reward,Created
+0,Alexander Elias,What type of instagram account is this?,"46,048",$0.03,2019-11-18 11:23:09.322671
+1,Computer Vision Turk,[NEW BATCH] Trace Object Boundaries,"17,742",$0.60,2019-11-15 14:23:09.322700
+2,Computer Vision Turk,Verify All Instances of Object Have Boundaries,"17,164",$0.15,2019-11-17 14:23:09.322707
+3,Eric Meisel,Find Organization Data Based on Organization Name,"10,344",$0.01,2019-11-15 14:23:09.322713
+4,James Billings,Market Research Survey,"9,764",$0.01,2019-11-18 14:22:09.322717
+5,IC3 AI team,P.808 test,"7,279",$0.50,2019-11-16 14:23:09.322723
+6,Phil Maher,"""Archival Video Reviewer"" Create title, 10 keywords and pick category by watching a very short (5 second) historic video clip.","7,254",$0.01,2019-11-18 13:45:09.322728
+7,Noah Turk,Check if two web pages describe the same product,"3,893",$0.10,2019-11-18 13:44:09.322733
+8,Crowdsurf Support,"Review, edit, and score the transcription of General Content up to 35 Seconds of Media - Earn up to $0.14 per HIT!","3,494",$0.02,2019-11-18 14:23:03.322738
+9,Content Research,Clean Up How-To Questions,"3,210",$0.05,2019-11-18 08:23:09.322743
+10,Crowdsurf Support,Transcribe up to 35 Seconds of General Content to Text - Earn up to $0.19 per HIT!,"2,697",$0.05,2019-11-18 13:23:09.322749
+11,NLUResearch,Explain a Story regular largescale,"1,993",$0.90,2019-11-15 14:23:09.322754
+12,Crisis Computing,Disaster-Related Tweets Categorization,"1,803",$0.20,2019-11-18 09:23:09.322758
+13,Kensuke Harada,【Research】Evaluate food arrangement to choose option(20 simple questions),"1,521",$0.10,2019-11-16 14:23:09.322763
+14,Michael Benson,Find the general email address,"1,443",$0.01,2019-11-17 23:23:09.322768
+15,Ben Baker,Type the highlighted name shown in the image.,"1,088",$0.06,2019-11-18 08:23:09.322773
+16,Crowdsurf Support,"Review, edit, and score the transcription of up to 35 seconds of media - Earn up to $0.14 per HIT!","1,060",$0.02,2019-11-18 14:14:09.322778
+17,NLUResearch,Explain a Story regular largescale,942,$1.10,2019-11-04 14:23:09.322783
+18,Job Spotter,Notez les coordonnées du magasin qui arbore un panneau « On embauche » (ATTENTION : ce résultat peut contenir du contenu réservé,794,$0.04,2019-11-15 14:23:09.322788
+19,Wesley Chan,Take 1-minute Transit Survey (in Hindi),743,$0.15,2019-11-11 14:23:09.322792
+20,Crowdsurf Support,Full Text Review - Earn up to $0.17 per media minute,738,$0.17,2019-11-18 14:20:09.322797
+21,Panel,"Extract summary information from 12 shopping receipts (Payment Method, Date)",707,$0.05,2019-11-18 14:14:09.322802
+22,Jacopo Margutti,Read sentences and answer questions,541,$0.04,2019-11-13 14:23:09.322806
+23,NLUResearch,Explain a Story regular largescale,517,$1.10,2019-11-04 14:23:09.322811
+24,NLUResearch,Explain a Story regular largescale,489,$0.90,2019-10-24 00:00:00
+25,Cardcow,Enter Detailed Information for a Postcard,472,$0.06,2019-11-17 14:23:09.324735
+26,Ai2 Israel,AI research - Decompose complex questions into steps. --BACK TO LOW-LEVEL DECOMPOSITION!-- Random guesses not approved!,455,$0.40,2019-11-17 14:23:09.324745
+27,Management Research,Extract 4 numbers related to executive perks from a firm document,449,$0.20,2019-11-18 12:23:09.324751
+28,Analytics,Find topics in given texts,396,$0.01,2019-11-16 14:23:09.324758
+29,dvamnr,Track Objects in a Video,345,$0.44,2019-11-18 14:22:28.324762
+30,Job Spotter,Notez les coordonnées du magasin qui arbore un panneau « On embauche » (ATTENTION : ce résultat peut contenir du contenu réservé,307,$0.06,2019-11-15 14:23:09.324767
+31,NLUResearch,Explain a Story regular largescale,279,$1.10,2019-10-01 00:00:00
+32,Language Research,Provide a URL to an image of machine-printed text in Tigrinya,273,$0.06,2019-11-13 14:23:09.324794
+33,Phil Maher,"""Archival Video Reviewer"" Create title, 20 keywords and pick category by watching a very short (5 second) historic video clip.",268,$0.02,2019-11-12 14:23:09.324799
+34,Language Research,Provide a URL to an image of machine-printed text in Maldivian,267,$0.06,2019-11-13 14:23:09.324803
+35,Language Research,Provide a URL to an image of machine-printed text in Sinhalese,249,$0.06,2019-11-13 14:23:09.324807
+36,Knowcomp group,(choice questions) Choose the relationship between two sentences,234,$0.01,2019-11-18 08:23:09.324812
+37,Shopping Receipts,Extract Data From Shopping Receipt,233,$0.01,2019-11-18 14:22:09.324817
+38,Language Research,Provide a URL to an image of machine-printed text in Cambodian,220,$0.06,2019-11-13 14:23:09.324822
+39,Jesse D. Crosson,Congressional press release data collection,208,$1.10,2019-11-08 14:23:09.324827
+40,Language Research,Provide a URL to an image of machine-printed text in Uyghur,205,$0.06,2019-10-24 00:00:00
+41,Panel,"Extract summary information from 12 shopping receipts (# of Items, Payment Method)",200,$0.05,2019-11-18 14:21:09.324847
+42,Michelle,Collect data and images about youtube artists,198,$0.10,2019-11-15 14:23:09.324853
+43,John Smith,Find events in a document.,192,$0.40,2019-11-06 14:23:09.324857
+44,Tech & Software Ltd.,Has Trump fulfilled this election promise,186,$0.50,2019-11-15 14:23:09.324862
+45,Language Research,Provide a URL to an image of machine-printed text in Maldivian,181,$0.06,2019-10-24 00:00:00
+46,Knowcomp group,(choice questions) Choose the relationship between two sentences,177,$0.01,2019-11-18 07:23:09.324880
+47,Language Research,Provide a URL to an image of machine-printed text in Uyghur,175,$0.06,2019-11-13 14:23:09.324886
+48,Language Research,Provide a URL to an image of machine-printed text in Hungarian,161,$0.06,2019-11-13 14:23:09.324890
+49,Lang Science,Does this segment contain any Polish speech? (Requires Mozilla Firefox),155,$0.05,2019-11-18 10:23:09.324894
+50,Lang Science,Does this segment contain any Maghrebi Arabic speech? (Requires Mozilla Firefox),155,$0.05,2019-11-18 10:23:09.324899
+51,Lang Science,Does this segment contain any Levantine Arabic speech? (Requires Mozilla Firefox),154,$0.05,2019-11-18 10:23:09.324904
+52,Lang Science,Does this segment contain any Brazilian Portuguese speech? (Requires Mozilla Firefox),149,$0.05,2019-11-18 10:23:09.324909
+53,Pinterest,Pinterest - Determine the topical relatedness between pieces of text,143,$0.40,2019-04-04 00:00:00
+54,Pinterest,Pinterest - Determine the topical relatedness between pieces of text,142,$0.60,2019-04-05 00:00:00
+55,Joni Salminen,Classify Offensive Comments (\*Arabic skills needed\*),139,$0.20,2019-11-13 14:23:09.324940
+56,Omnia Zayed,Metaphor Definition Annotation Main Task,138,$1.80,2019-11-08 14:23:09.324945
+57,Panel,"Extract summary information from 12 shopping receipts (Payment Method, Total)",127,$0.05,2019-11-18 14:23:02.324950
+58,DeepOpinion,Aspect Based Sentiment Annotation ★★★★☆,125,$0.20,2019-11-18 12:23:09.324954
+59,str11223344,Tell us what this item is - General Contents - Batch ID #30763,118,$0.07,2019-11-18 13:23:09.324960
+60,Language Research,Provide a URL to an image of machine-printed text in Maldivian,120,$0.06,2019-10-11 00:00:00
+61,QualLab,Image Quality Comparison,120,$0.01,2019-11-13 14:23:09.324978
+62,Research Surveys,Survey 14-11-2019,119,$0.35,2019-11-14 14:23:09.324983
+63,CSA_Evanston,Opinions & Attitudes(~ 3 minutes),111,$0.30,2019-11-18 13:23:09.324987
+64,Jacqueline Rifkin,TWO-PART Study on Brands (~7-10 minutes across 2 days)(~ 5 minutes),111,$0.10,2019-11-18 10:23:09.324992
+65,Shopping Receipts,Extract General Data & Items From Shopping Receipt,111,$0.02,2019-11-17 23:23:09.324997
+66,SpeechLab,LieCatcher: How good are you at detecting lies?,100,$0.05,2019-11-18 14:14:09.325001
+67,Han,Question and Answer Pairs Generation,99,$0.02,2019-11-17 14:23:09.325007
+68,TeamZ,Restaurant Receipt/Invoice with Bonus -- ITEMIZATION,94,$0.08,2019-11-18 14:21:09.325011
+69,Nicolas Hardy,Notez les informations contenues sur un ticket de caisse,92,$0.03,2019-11-14 14:23:09.325016
+70,SPLab,Society & Attitudes - 15 min survey(~ 15 minutes),91,$0.50,2019-11-18 14:16:09.325020
+71,Language Research,Provide a URL to an image of machine-printed text in Tigrinya,90,$0.06,2019-10-11 00:00:00
+72,Language Research,Provide a URL to an image of machine-printed text in Uyghur,88,$0.06,2019-10-11 00:00:00
+73,Hugo Cogo Moreira,Music perception test,86,$0.05,2019-11-11 14:23:09.325050
+74,Clic2Buy,Sélectionner les meilleures informations pour qualifier le produit,86,$0.02,2018-05-07 00:00:00
+75,Dara Javan,Find employees of a list of given companies,82,$0.04,2019-11-12 14:23:09.325068
+76,Panel,"Extract summary information from 12 shopping receipts (Payment Method, Phone Number)",81,$0.05,2019-11-18 14:04:09.325073
+77,Crowdsurf Support,QC Reject - Earn up to $0.20 per media minute,78,$0.20,2019-11-18 14:13:09.325078
+78,Language Research,Provide a URL to an image of machine-printed text in Cambodian,77,$0.06,2019-10-11 00:00:00
+79,CrowdRes,Evaluate a Story Continuation,77,$0.10,2019-11-18 12:23:09.325099
+80,Shopping Receipts,Extract General Data & Items From Shopping Receipt,77,$0.01,2019-11-18 03:23:09.325104
+81,Kelsey Autin,Predicting Access to Decent Work in Racial/Ethnic Minority Adults(~ 30 minutes),74,$0.50,2019-11-17 14:23:09.325110
+82,Igor Grossmann,survey on political issues among Canadians(~ 8 minutes),73,$1.00,2019-11-17 19:23:09.325114
+83,vainu,What kind of website is this?,72,$0.02,2019-11-18 13:23:09.325119
+84,Noah Turk,Are these sentences supported?,69,$0.15,2019-11-18 13:48:09.325124
+85,Yale SPCL,Take a 10-12 minute survey about public policy issues (~ 10 minutes),66,$1.00,2019-11-07 14:23:09.325129
+86,f8b64e4e-b7c8-47a8-9ee3-b161727f4ca2,Judge the reputation polarity of Article Clips,62,$0.08,2019-11-18 14:02:09.325133
+87,Language Research,Provide a URL to an image of machine-printed text in Georgian,60,$0.06,2019-10-11 00:00:00
+88,Yale SPCL,Opinions on Behavior (~8-10 minutes)(~ 10 minutes),60,$1.00,2019-11-08 14:23:09.325151
+89,Susan W Mcroy,Health Belief Annotation - Set 1,60,$0.07,2019-11-14 14:23:09.325156
+90,Jerry Luo,Check all entities in Tweets. Note: There is a limit of 6 HITs,60,$0.05,2019-11-17 14:23:09.325160
+91,vainu,"Find organization, personal, location and job title names in business news articles (Computer required)",59,$0.36,2019-11-18 11:23:09.325165
+92,Language Research,Provide a URL to an image of machine-printed text in Tigrinya,58,$0.06,2019-10-24 00:00:00
+93,Language Research,Provide a URL to an image of machine-printed text in Pashto,58,$0.06,2019-10-24 00:00:00
+94,Language Research,Provide a URL to an image of machine-printed text in Tagalog,57,$0.06,2019-10-11 00:00:00
+95,Phoebe,Answer a 3-min consumer survey to get 0.4$!(~ 3 minutes),56,$0.40,2019-11-18 12:23:09.325205
+96,SAMlab,Study: Aspects of people (~ 15 minutes),55,$1.50,2019-11-14 14:23:09.325210
+97,Gilad Feldman,"Decision-making: government policy decisions/evaluations (native English, US born & raised))(~ 8 minutes)",53,$1.00,2019-11-18 13:23:09.325217
+98,Clic2Buy,Sélectionner les meilleures informations pour qualifier le produit,54,$0.04,2018-06-15 00:00:00
+99,Annotation Requester,QA Review,53,$0.02,2019-11-17 14:23:09.325235
+100,Baylor Study,Developing Virtue(~ 30 minutes),48,$0.50,2019-11-13 14:23:09.325243
+101,MPM Lab,Judgments and Politics - Longitudinal Study (Part 2 of 2)(~ 8 minutes),48,$1.60,2019-10-28 00:00:00
+102,Crowdsurf Support,Full Text Review - General Content - Earn up to $0.21 per media minute,47,$0.21,2019-11-18 11:23:09.325263
+103,Language Research,Provide a URL to an image of machine-printed text in Dari,47,$0.06,2019-10-24 00:00:00
+104,Annotation Requester,QA Review,47,$0.02,2019-11-17 14:23:09.325282
+105,Noah Turk,Determine if a character description is offensive,46,$0.29,2019-10-25 00:00:00
+106,p9r,Transcribe data,46,$0.01,2019-11-18 14:22:49.325298
+107,Psychology,Religious and Spiritual Beliefs Follow-Up Survey [Year 3](~ 19 minutes),45,$2.50,2019-11-10 14:23:09.325304
+108,Rodrigo Dias,Answer a short survey(~ 3 minutes),45,$0.36,2019-11-18 14:21:09.325308
+109,Shannon O'Connor,Food Availability(~ 30 minutes),44,$5.00,2019-11-15 14:23:09.325313
+110,LessHours - jobs where it's not crazy at work,Get the details from a job posting (<5 mins),44,$0.10,2019-11-11 14:23:09.325317
+111,Matt Garner,Transcribe Product Details from Product Image,44,$0.13,2019-11-18 14:20:09.325322
+112,Language Research,Provide a URL to an image of machine-printed text in Dari,43,$0.06,2019-11-13 14:23:09.325326
+113,Gilad Feldman,"Decision-making: government policy decisions/evaluations (native English, US born & raised))(~ 8 minutes)",42,$1.00,2019-11-18 12:23:09.325330
+114,Stanford GSB Behavioral Lab,First Impressions Study(~ 10 minutes),42,$1.20,2019-11-13 14:23:09.325335
+115,Andrew Nimmich,Collect data from a Website,41,$0.10,2019-10-07 00:00:00
+116,Language Research,Provide a URL to an image of machine-printed text in Cambodian,40,$0.06,2019-10-24 00:00:00
+117,Phoebe,Answer a 3-min consumer survey to get 0.4$!(~ 3 minutes),41,$0.40,2019-11-18 11:23:09.325363
+118,MSRRedmond Labs,Short task labeling social media comments.,40,$0.05,2019-11-14 14:23:09.325368
+119,Lauren Currie,Career Hope Study (~15 minutes),38,$0.75,2019-11-18 01:23:09.325373
+120,Conor O'Dea,Social encounters ***10 minute survey***(~ 10 minutes),36,$0.50,2019-11-14 14:23:09.325378
+121,str11223344,Tell us what this item is - General Contents - Batch ID #30670,36,$0.07,2019-11-12 14:23:09.325382
+122,Panel,"Extract summary information from 12 shopping receipts (Payment Method, Phone Number)",33,$0.05,2019-11-18 13:52:09.325386
+123,Felix Kreuk,Pick the best category,36,$0.02,2019-11-15 14:23:09.325391
+124,PsychResearcher256,A Survey About Judgment and Decision Making,36,$0.25,2019-11-18 11:23:09.325396
+125,Noah Turk,Which Conversational Partner is Better?,35,$0.50,2019-09-03 00:00:00
+126,SAMlab,Study: Aspects of people (~ 15 minutes),35,$1.50,2019-11-11 14:23:09.325413
+127,Crowdsurf Support,Spanish: Transcribe up to 35 Seconds of Spanish Language Media to Text - Earn up to $0.14 per HIT!,34,$0.07,2019-11-18 11:23:09.325418
+128,Ashley Batastini,Perceptions of parenting.,34,$1.00,2019-11-01 14:23:09.325423
+129,Cameron Jackson,Find the URL of the post,34,$0.05,2019-10-23 00:00:00
+130,Hean Tat Keh,A survey involves a writing task and social perceptions on different topics(~ 10 minutes),34,$0.90,2019-11-18 06:23:09.325440
+131,Murtaza Haider,Measure length of rows of dock doors on a building (Qualification Test),33,$0.04,2019-11-12 14:23:09.325445
+132,Crowdsurf Support,Transcribe up to 35 Seconds of Media to Text - Earn up to $0.17 per HIT!!,32,$0.05,2019-11-18 03:23:09.325450
+133,van Anders Lab,Research study on beliefs about gender (pt. 2 of 2)(~ 5 minutes),31,$1.00,2019-10-26 00:00:00
+134,Noah Turk,Chat with a fellow conversationalist!,30,$1.87,2019-10-25 00:00:00
+135,Chatbot for Car Dealers,Provide difference utterance for the given utterance!,30,$0.10,2019-06-30 00:00:00
+136,Chatbot for Car Dealers,Provide difference utterance for the given utterance!,30,$0.10,2019-06-30 00:00:00
+137,Clic2Buy,Sélectionner les meilleures informations pour qualifier le produit,30,$0.05,2018-06-15 00:00:00
+138,dataconnection,Find the (dis)similarity between two sets of sentences,30,$0.05,2019-11-18 04:23:09.325510
+139,Jinchao Li,Chat and evaluate bot!,29,$0.30,2019-10-03 00:00:00
+140,Noah Turk,Which Conversational Partner is Better?,29,$0.50,2019-09-03 00:00:00
+141,Rajashri Srinivasan,Evaluation survey. 1 dollar and 30 cents for 10-12 minutes(~ 12 minutes),28,$1.30,2019-11-18 10:23:09.325538
+142,Andres,Attitudes and Beliefs about U.S. Society(~ 15 minutes),27,$4.00,2019-11-16 14:23:09.325544
+143,Language Research,Provide a URL to an image of machine-printed text in Tagalog,26,$0.06,2019-10-24 00:00:00
+144,Jinchao Li,Multi-WOZ,25,$0.10,2019-08-02 00:00:00
+145,Language Research,Provide a URL to an image of machine-printed text in Tibetan,25,$0.06,2019-10-24 00:00:00
+146,SurveyComet,Make predictions about political events $16. (~ 120 minutes),25,$16.00,2019-10-24 00:00:00
+147,Research Surveys,Survey 11-18-2019,25,$0.40,2019-11-18 11:23:09.325591
+148,Kelsey Autin,Predicting Access to Decent Work in Racial/Ethnic Minority Adults(~ 30 minutes),24,$0.50,2019-11-17 14:23:09.325597
+149,f8b64e4e-b7c8-47a8-9ee3-b161727f4ca2,Judge the reputation polarity of Article Clips,24,$0.08,2019-11-18 13:50:09.325602
+150,Chelsey,Follow-up survey with bonus payment about attitudes(~ 10 minutes),24,$2.00,2019-11-15 14:23:09.325607
+151,Daniel,Visit news article and record the contact information for the journalist,24,$0.10,2019-11-12 14:23:09.325611
+152,Ziming Li,Booking movie tickets for users,23,$0.07,2019-02-15 00:00:00
+153,Johanna Peetz,Personal Spending in the month of November - Survey 6(~ 5 minutes),23,$0.50,2019-11-17 20:23:09.325630
+154,Alex,View and Judge Images(~ 30 minutes),23,$3.00,2019-11-16 14:23:09.325636
+155,BIU NLP,Text Information Extraction,34,$0.10,2019-11-18 14:18:09.325640
+156,Lily,Read a scenario and make choices(~ 2 minutes),22,$0.20,2019-11-18 14:00:09.325645
+157,Johanna Peetz,Personal Spending in the month of November - Survey 6(~ 5 minutes),22,$0.50,2019-11-17 20:23:09.325650
+158,Johanna Peetz,Personal Spending in the month of November - Survey 6(~ 5 minutes),22,$0.50,2019-11-17 20:23:09.325654
+159,Alex,View and Judge Images(~ 30 minutes),22,$3.00,2019-11-16 14:23:09.325659
+160,Rece Capture,Receipt Transcription,21,$0.03,2019-11-18 14:17:09.325666
+161,Joanna Herres,Campus Emotional Well-Being Survey(~ 30 minutes),21,$2.00,2019-04-08 00:00:00
+162,Ziming Li,Movie booking chat-bot: booking tickets for users,21,$0.06,2019-02-14 00:00:00
+163,Ziming Li,Movie booking chat-bot: booking tickets for users,21,$0.06,2019-02-12 00:00:00
+164,Luxi Chai,A Short Survey about your personality and work experience(~ 10 minutes),21,$2.00,2019-08-23 00:00:00
+165,Johanna Peetz,Personal Spending in the month of November - Survey 6(~ 5 minutes),21,$0.50,2019-11-17 20:23:09.325715
+166,cindy,Panorama Annotation for Cars,21,$0.10,2019-11-11 14:23:09.325721
+167,Ziming Li,Booking movie tickets for users,20,$0.07,2019-02-18 00:00:00
+168,Ziming Li,Booking movie tickets for users,20,$0.07,2019-02-15 00:00:00
+169,Ziming Li,Movie booking chat-bot: booking tickets for users,20,$0.06,2019-02-14 00:00:00
+170,Research Surveys,Survey 12-11-2019,20,$0.25,2019-11-12 14:23:09.325758
+171,Research Surveys,Survey 12-11-2019,20,$0.25,2019-11-12 14:23:09.325763
+172,Research Surveys,Survey 12-11-2019,20,$0.25,2019-11-12 14:23:09.325767
+173,Research Surveys,Survey 12-11-2019,20,$0.25,2019-11-12 14:23:09.325771
+174,DRColman,Perceptions and Attitudes Toward Persons with Autism(~ 15 minutes),20,$0.25,2019-11-18 13:52:09.325776
+175,Job Spotter,Vérifiez l'affiche de recrutement ainsi que le nom du magasin figurant sur la photo.,20,$0.03,2019-11-18 07:23:09.325781
+176,Noah Turk,Rate the quality of simplified sentences for non-native English Speakers,20,$1.50,2019-11-14 14:23:09.325786
+177,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325791
+178,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325795
+179,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325800
+180,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325805
+181,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325809
+182,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325814
+183,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325819
+184,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325823
+185,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325828
+186,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325833
+187,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325837
+188,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325842
+189,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325847
+190,Research Surveys,Survey 18-11-2019,20,$0.25,2019-11-18 08:23:09.325851
+191,Crowdsurf Support,"Spanish: Review, edit, and score the transcription of up to 35 seconds of media - Earn up to $0.12 per HIT!",19,$0.02,2019-11-18 11:23:09.325856
+192,Jasmine Wang,Can machines evaluate dialogue quality?,19,$0.20,2019-04-20 00:00:00
+193,Ziming Li,Movie booking chat-bot: booking tickets for users,19,$0.07,2019-02-14 00:00:00
+194,Research Surveys,Survey 12-11-2019,19,$0.25,2019-11-12 14:23:09.325884
+195,CopyText Inc.,"Type the text from the images, carefully. Productivity and bonuses guaranteed.",19,$0.01,2019-11-18 14:20:09.325889
+196,Claire McTaggart,Fill out a survey about workplace behaviors!(~ 20 minutes),19,$3.00,2019-10-23 00:00:00
+197,Researchers from Barcelona,Evaluate names for objects [batch 4] (~3.5min; $0.15 bonus possible),19,$0.50,2019-11-18 12:23:09.325905
+198,zhou yu,Persuasion for Good - earn up to $2!,18,$0.30,2019-09-16 00:00:00
+199,Alex,View and Judge Images(~ 30 minutes),18,$3.00,2019-11-16 14:23:09.325922
+200,Research Surveys,Survey 12-11-2019,17,$0.25,2019-11-12 14:23:09.325928
+201,Jinchao Li,Chat and evaluate bot!,16,$0.10,2019-10-10 00:00:00
+202,zhou yu,Persuasion for Good - earn up to $2!,16,$0.30,2019-09-18 00:00:00
+203,Jasmine Wang,Can machines evaluate dialogue quality?,16,$0.25,2019-04-20 00:00:00
+204,Language Research,Provide a URL to an image of machine-printed text in Tibetan,16,$0.06,2019-10-11 00:00:00
+205,GNGF,Find the Contact Information for the Schools,16,$0.20,2019-11-12 14:23:09.325980
+206,Dan Prescott,Attitudes and Evaluation Follow-Up(~ 15 minutes),16,$1.60,2019-11-11 14:23:09.325985
+207,Language Research,Provide a URL to an image of machine-printed text in Dari,15,$0.06,2019-10-11 00:00:00
+208,Charlotte Moser,Attitudes Study(~ 10 minutes),15,$1.00,2019-11-17 19:23:09.326001
+209,Alex,View and Judge Images(~ 30 minutes),15,$3.00,2019-11-16 14:23:09.326006
+210,Tehila Kogut,Judgment and decision making part II(~ 4 minutes),15,$0.40,2019-11-07 14:23:09.326011
+211,Claire McTaggart,Complete a survey about workplace behaviors and personality traits(~ 20 minutes),15,$3.00,2019-10-23 00:00:00
+212,vainu,"Find organization, personal, location and job title names in business news articles (Computer required)",15,$0.32,2019-11-18 11:23:09.326027
+213,Shopping Receipts,Extract Data From Shopping Receipt,15,$0.02,2019-11-18 11:23:09.326032
+214,"park, ho cheul",Analyze medical noncompliance in the US(~ 13 minutes),14,$3.00,2019-11-17 22:23:09.326037
+215,Erin Cooley,Social Evaluations and Processes(~ 10 minutes),14,$0.80,2019-11-17 14:23:09.326042
+216,CopyText Inc.,"Type the text from the images, carefully. Productivity and bonuses guaranteed.",14,$0.01,2019-11-18 14:19:09.326046
+217,bhanu prakash,Answer a survey about your your emotions after reading a short news article,14,$0.03,2019-11-18 13:58:09.326051
+218,Yina Li,What is your financial choice?(~ 6 minutes),14,$0.60,2019-11-10 14:23:09.326056
+219,Research Team,"Survey on later life work, bonus payment possible(~ 30 minutes)",13,$2.00,2019-11-15 14:23:09.326060
+220,Diana Hernandez,Sentence classification (hotel reviews),13,$0.02,2019-11-13 14:23:09.326065
+221,Jinchao Li,Chat and evaluate bot!,12,$0.25,2019-10-11 00:00:00
+222,Matthew,Extremely fast and easy survey about your attitudes,12,$0.08,2019-11-18 13:23:09.326085
+223,Andrew Downs,Stress Survey(~ 15 minutes),11,$0.50,2019-09-12 00:00:00
+224,Cal Poly Center for Health Research,"Weight Control Survey (~3 minute screen, $4 bonus for full survey completion if eligible)(~ 3 minutes)",11,$0.01,2019-11-15 14:23:09.326105
+225,Nicole Lasky,"Characteristics, Activities, Behaviors, and Experiences Survey(~ 12 minutes)",11,$0.65,2019-11-05 14:23:09.326110
+226,Social Innovations Lab,Compensation HIT(~ 1 minutes),11,$1.00,2019-11-17 14:23:09.326115
+227,Jon Jachimowicz,Short Survey About Potential Internship Options(~ 7 minutes),11,$1.50,2019-11-16 14:23:09.326119
+228,Ting Zhang,Simple 10-minute survey. Earn $1.00!(~ 10 minutes),11,$1.00,2019-11-13 14:23:09.326123
+229,Researchers from Barcelona,Evaluate names for objects [batch 4] (~3.5min; $0.15 bonus possible),11,$0.50,2019-11-18 12:23:09.326128
+230,Crisis Computing,Disaster-Related Tweets Categorization,11,$0.20,2019-11-13 14:23:09.326133
+231,Center for Media Engagement,Communication and Current Issues(~ 8 minutes),10,$0.97,2019-11-18 12:23:09.326137
+232,Kelsey Evey,Reading Bible Verses Part 2(~ 15 minutes),10,$3.00,2019-11-17 20:23:09.326142
+233,Lucas Matias Jeno,A short survey on motivation for use of digital learning tools(~ 8 minutes),10,$1.00,2019-11-15 14:23:09.326147
+234,Jason J Dahling,Personality Correlates(~ 12 minutes),10,$2.00,2019-10-28 00:00:00
+235,komachi_lab,(~40 minutes) Evaluation of the output sentence of grammatical error correction systems.,10,$4.00,2019-11-18 10:23:09.326164
+236,Emotion Research,Watch 20 video clips and identify the emotions of the characters (up to $0.80 pay upon qualification and successful completion),10,$0.05,2019-11-12 14:23:09.326169
+237,Crowdsurf Support,Timing review - Earn up to $0.18 per timed media minute,9,$0.18,2019-11-18 14:21:09.326173
+238,Maas CB Lab,Photo Evaluation Study(~ 15 minutes),9,$1.10,2019-11-18 09:23:09.326178
+239,str11223344,Tell us how much this item would cost to replace - Soft Goods - Batch ID #30665,9,$0.25,2019-11-12 14:23:09.326183
+240,Chris Davis,Psychology of Secrets - Time 2(~ 10 minutes),9,$1.25,2019-11-18 11:23:09.326187
+241,Daniel Kadvany,Answer questions about the 2020 Census,9,$0.50,2019-11-18 11:23:09.326192
+242,Daniel Kadvany,Answer questions about the 2020 Census,9,$0.35,2019-11-15 14:23:09.326197
+243,Michael Sargent,Sports Survey(~ 6 minutes),9,$1.00,2019-11-17 14:23:09.326201
+244,Emily,Food Survey Phase 2(~ 13 minutes),9,$0.75,2019-11-11 14:23:09.326205
+245,Ryan Wang,News Opinion(~ 7 minutes),9,$0.70,2019-11-18 09:23:09.326209
+246,Scoutbee GmbH,Collect company info from website,9,$0.15,2019-11-18 12:23:09.326214
+247,Shopping Receipts,Extract Data From Shopping Receipt,9,$0.01,2019-11-18 13:23:09.326219
+248,Shopping Receipts,Extract Data From Shopping Receipt,9,$0.02,2019-11-18 11:23:09.326224
+249,Noah Turk,Which Conversational Partner is Better?,8,$0.50,2019-08-06 00:00:00
+250,Ziming Li,Booking movie tickets for users,8,$0.07,2019-02-20 00:00:00
+251,Conor O'Dea,Scholarship study 2 *5-10 minute survey*(~ 10 minutes),8,$0.25,2019-11-16 14:23:09.326252
+252,Todman Lab,Boredom Awareness and Alcohol Use Follow Up Survey 6(~ 8 minutes),8,$1.00,2019-10-24 00:00:00
+253,HUGC,Moderate Customer-Supplied Vacation Rental Reviews (WARNING: This HIT may contain adult content. Worker discretion is advised),8,$0.05,2019-11-18 11:23:09.326269
+254,Jinchao Li,Chat and evaluate bot!,7,$0.25,2019-10-16 00:00:00
+255,Jinchao Li,Chat and evaluate bot!,7,$0.10,2019-10-03 00:00:00
+256,zhou yu,Persuasion for Good - earn up to $2!,7,$0.30,2019-09-18 00:00:00
+257,zhou yu,Persuasion for Good - earn up to $2!,7,$0.30,2019-09-17 00:00:00
+258,Crowdsurf Support,QC Transcript - Earn up to $0.17 per media minute qc'd,7,$0.17,2019-11-18 14:10:09.326321
+259,jing betty feng,Psychological factors on cultural intelligence(~ 12 minutes),7,$0.60,2019-11-07 14:23:09.326327
+260,ulido,"Second part of 2-part study about Jewelry, Earn $2!(~ 4 minutes)",7,$1.80,2019-11-13 14:23:09.326332
+261,Mather Lab,Find the pictures (WARNING: This HIT contains adult content. Requires Inquisit download.)(~ 30 minutes),7,$4.00,2019-11-11 14:23:09.326336
+262,Behavioral Research,Study on Hiring Decisions in Organizations(~ 60 minutes),7,$10.00,2019-11-08 14:23:09.326340
+263,Carlos Paparoni,Survey to evaluate audio quality between samples,7,$0.10,2019-11-14 14:23:09.326345
+264,Lead Liaison,"(Chinese) Transcribe contact data from business card, document, etc.",7,$0.20,2019-11-17 23:23:09.326349
+265,Shopping Receipts,Extract General Data & Items From Shopping Receipt,7,$0.02,2019-11-17 23:23:09.326354
+266,PPC WWBP,Empathic Conversation 99,6,$3.00,2019-09-28 00:00:00
+267,Jasmine Wang,Can machines evaluate dialogue quality?,6,$0.30,2019-04-20 00:00:00
+268,Language Research,Provide a URL to an image of machine-printed text in Hungarian,6,$0.06,2019-10-11 00:00:00
+269,Noah Turk,Play a cooperative grid world game with a partner,6,$0.25,2019-01-08 00:00:00
+270,SurveyComet,Make predictions about political events $16. (~ 120 minutes),6,$16.00,2019-11-18 13:23:09.326403
+271,SurveyComet,Make predictions about political events $16. (~ 120 minutes),6,$16.00,2019-11-18 13:23:09.326409
+272,SCIP Lab,Reactions to various situations 3(~ 15 minutes),6,$1.50,2019-11-18 11:23:09.326414
+273,Positly,Answer 35 Trivia Questions (~9 mins),6,$1.10,2019-11-18 11:23:09.326419
+274,Sandra J. Wayne,[10-15 minutes] [$2] Survey on understanding employee behavior in the workplace(~ 10 minutes),6,$2.00,2019-11-01 14:23:09.326423
+275,str11223344,Tell us how much this item would cost to replace - General Contents - Batch ID #30666,6,$0.20,2019-11-14 14:23:09.326428
+276,Speechfeedback,Rate the quality of computer-generated speech - Korean@South Korea native only [#1b69],6,$1.00,2019-11-15 14:23:09.326432
+277,Speechfeedback,Rate the quality of computer-generated speech - Korean@South Korea native only [#b0c3],6,$1.00,2019-11-14 14:23:09.326436
+278,MPM Lab,Judgments and Politics - Longitudinal Study (Part 2 of 2)(~ 8 minutes),6,$1.60,2019-10-25 00:00:00
+279,Speechfeedback,Rate the quality of computer-generated speech - Korean@South Korea native only [#fa37],6,$1.00,2019-11-18 10:23:09.326452
+280,Georgetown University Massive Data Institute,Text Labeling: Determine if text is about the #MeToo movement,6,$0.03,2019-11-14 14:23:09.326458
+281,Leo Hermacinski,Collect data from a Website,6,$0.10,2019-11-18 10:23:09.326462
+282,Vincent Phan,Dealing with Demands in the Workplace (Survey 1)(~ 5 minutes),6,$0.50,2019-11-18 13:23:09.326467
+283,VisionLearning,Chat with and rate a fellow conversationalist!,5,$1.00,2019-11-14 14:23:09.326471
+284,Ziming Li,Booking movie tickets for users,5,$0.07,2019-02-18 00:00:00
+285,Ziming Li,Booking movie tickets for users,5,$0.07,2019-02-16 00:00:00
+286,ulido,"Second part of 2-part study about Jewelry, Earn $2!(~ 4 minutes)",5,$1.80,2019-11-13 14:23:09.326502
+287,Selime Salim,Women’s Life Experiences Survey(~ 60 minutes),5,$5.00,2019-11-14 14:23:09.326507
+288,Positly,Answer 20 Trivia Questions (~5 mins),5,$0.50,2019-11-18 11:23:09.326514
+289,A2Z,Data Entry - new instructions 26th Oct (E332-725),5,$0.03,2019-11-18 14:22:57.326519
+290,Timo,Behavior of e commerce consumers/users,5,$0.11,2019-11-16 14:23:09.326524
+291,Fangzhou,Answer a survey about your opinions on interaction with wearable devices,5,$0.25,2019-11-16 14:23:09.326528
+292,EmotionHKBU,[11/17] Invited HIT: Label Tweets’ Emotions ($0.55),5,$0.55,2019-11-17 22:23:09.326532
+293,EmotionHKBU,[11/16] Invited HIT: Label Tweets’ Emotions ($0.55),5,$0.55,2019-11-17 14:23:09.326537
+294,EPL Admin,$0.38. Make Hypothetical Economic Decisions. Time: 10 minutes,5,$0.38,2019-10-08 00:00:00
+295,SEO BrainTrust,*UPDATE* Summarize and write three key points made in the provided article,5,$0.45,2019-11-18 11:23:09.326554
+296,EmotionHKBU,[11/15] Invited HIT: Label Tweets’ Emotions ($0.55),5,$0.55,2019-11-16 14:23:09.326559
+297,zhou yu,Persuasion for Good - earn up to $2!,4,$0.30,2019-09-16 00:00:00
+298,Holly Howe,Answer questions about medical decision making (includes writing)(~ 8 minutes),4,$0.96,2019-11-18 10:23:09.326575
+299,Adrian R Camilleri,What are the biggest decisions you have ever made in your life?(~ 60 minutes),4,$7.50,2019-11-17 20:23:09.326581
+300,BIU NLP,Write question-answer pairs about verbal nouns,4,$0.05,2019-11-03 14:23:09.326587
+301,str11223344,Tell us what this item is - General Contents - Batch ID #30764,4,$0.07,2019-11-18 13:23:09.326592
+302,str11223344,Tell us what this item is - Electronics - Batch ID #30763,4,$0.09,2019-11-18 12:23:09.326597
+303,Todman Lab,Boredom Awareness and Alcohol Use Follow Up Survey 6(~ 8 minutes),4,$1.00,2019-10-31 14:23:09.326604
+304,Job Spotter,Verify photos of hiring sign and store name,4,$0.03,2019-11-18 14:22:51.326609
+305,Relationship Research,Romantic Relationship Followup(~ 20 minutes),4,$4.00,2019-11-14 14:23:09.326614
+306,Qiang Ning (AllenNLP),DO NOT WORK ON THIS (TESTING),4,$0.01,2019-11-15 14:23:09.326618
+307,PFT,Catégorisation d'une phrase en Français,3,$0.01,2019-11-18 14:22:09.326622
+308,Jinchao Li,Chat and evaluate bot!,3,$0.20,2019-10-11 00:00:00
+309,Chatbot for Car Dealers,Provide difference utterance for the given utterance!,3,$0.10,2019-06-30 00:00:00
+310,Language Research,Provide a URL to an image of machine-printed text in Telugu,3,$0.06,2019-11-13 14:23:09.326651
+311,NLUResearch,Explain a Story regular warmup,3,$0.75,2019-09-16 00:00:00
+312,Aleksandra Kovacheva,Attitudes and Opinions Study(~ 6 minutes),3,$0.52,2019-11-18 14:22:09.326669
+313,Guy Voichek,Judgment and choices(~ 2 minutes),3,$0.20,2019-11-18 13:50:09.326674
+314,Laboratory for Sociological Research,Workplace Reasoning Study(~ 25 minutes),3,$2.00,2019-11-18 12:23:09.326679
+315,Nicole Palas,Three Part Study on Eyewitnesses(~ 15 minutes),3,$3.50,2019-11-17 19:23:09.326684
+316,Social Innovations Lab,Compensation HIT(~ 1 minutes),3,$0.25,2019-11-17 14:23:09.326689
+317,Thomas,Attitudes Survey(~ 10 minutes),3,$1.00,2019-11-14 14:23:09.326693
+318,Moore Lab,Mental health and predictions survey(~ 35 minutes),3,$4.50,2019-11-14 14:23:09.326697
+319,Neasa Connelly,Find Websites based off Company Name,3,$0.05,2019-11-13 14:23:09.326702
+320,str11223344,Tell us what this item is - Soft Goods - Batch ID #30763,3,$0.07,2019-11-18 13:23:09.326706
+321,Positly,Answer 20 Trivia Questions (~5 mins),3,$0.50,2019-11-18 11:23:09.326711
+322,parkseongkuk,[CORUS-TEST-1] data input behavior test,3,$1.00,2019-11-15 14:23:09.326716
+323,LessHours - jobs where it's not crazy at work,Get the details from a job posting (<5 mins),3,$0.20,2019-11-05 14:23:09.326720
+324,Positly,Answer 20 Trivia Questions (~5 mins),3,$0.50,2019-11-18 11:23:09.326724
+325,str11223344,Tell us what this item is - General Contents - Batch ID #30673,3,$0.07,2019-11-12 14:23:09.326729
+326,Job Spotter,Notez les coordonnées du magasin qui arbore une affiche de recrutement (ATTENTION : ce résultat peut contenir du contenu réservé,3,$0.06,2019-11-17 14:23:09.326733
+327,Relationship Research,Romantic Relationship Followup(~ 20 minutes),3,$4.00,2019-11-14 14:23:09.326738
+328,WikiRealty,"Short Article Summary | Lincoln Park, IL",3,$2.00,2019-11-18 12:23:09.326742
+329,A2Z,Data Entry from images (D267),3,$0.03,2019-11-16 14:23:09.326747
+330,"Mike, Postdoctoral Researcher",Time Preferences Three-Part Study: Part Two,3,$1.00,2019-11-16 14:23:09.326751
+331,"Mike, Postdoctoral Researcher",Time Preferences Three-Part Study: Part Three,3,$4.00,2019-11-15 14:23:09.326756
+332,Speechfeedback,Rate the quality of computer-generated speech - Korean@South Korea native only [#5ee4],3,$1.00,2019-11-14 14:23:09.326760
+333,Speechfeedback,Rate the quality of computer-generated speech - Korean@South Korea native only [#3e62],3,$1.00,2019-11-14 14:23:09.326764
+334,Karina Tachihara,Reading Spanish sentences and answering questions(~ 8 minutes),3,$1.00,2019-10-22 00:00:00
+335,Thor Russell,Rate the speech sample,3,$0.07,2019-11-18 13:23:09.326781
+336,Hotel Photos,Hotel Image Moderation (Adult content),3,$0.08,2019-11-18 14:22:54.326786
+337,Shopping Receipts,Extract Data From Shopping Receipt,3,$0.03,2019-11-18 07:23:09.326790
+338,Andrew Nimmich,Data Mining,2,$0.10,2019-09-22 00:00:00
+339,Andrew Nimmich,Data Mining,2,$0.10,2019-09-21 00:00:00
+340,Andrew Nimmich,Collect data from a Website,2,$0.10,2019-10-07 00:00:00
+341,Henry,An English/Chinese Language Test - Part 1 (of 2)(~ 30 minutes),2,$1.50,2019-11-06 14:23:09.326829
+342,Language Research,Provide a URL to an image of machine-printed text in Maldivian,2,$0.06,2019-09-30 00:00:00
+343,LSAN,Answer a survey about faces and emotions.,2,$1.00,2019-09-03 00:00:00
+344,LSAN,Answer a survey about faces and emotions.,2,$1.00,2019-09-03 00:00:00
+345,Aleksandra Kovacheva,Attitudes and Opinions Study(~ 6 minutes),2,$0.52,2019-11-18 14:22:48.326866
+346,TPNI Engage,Fill out form from image,1,$0.05,2019-11-18 14:19:09.326871
+347,adrian rivera,School Experiences Survey(~ 20 minutes),2,$2.00,2019-11-16 14:23:09.326876
+348,Todman Lab,Boredom Awareness and Alcohol Use Follow Up Survey 6(~ 8 minutes),2,$1.00,2019-11-14 14:23:09.326880
+349,LSAN,Answer a survey about faces and emotions.,2,$1.00,2019-09-03 00:00:00
+350,A2Z,Data Entry - new instructions 26th Oct (E332-725),2,$0.03,2019-11-18 14:22:27.326901
+351,Eva,Give spontaneous associations to shown words.,2,$0.15,2019-11-18 10:23:09.326906
+352,Alan Ritter,Question-Answer response fluency survey,2,$0.15,2019-11-18 00:23:09.326911
+353,Declan,Quick and Easy survey about your opinions,2,$0.01,2019-11-10 14:23:09.326916
+354,Riche,Give music recommendations,2,$0.60,2019-11-17 20:23:09.326921
+355,RootsRated,Identify the breaks in the body of an article,2,$0.15,2019-11-17 18:23:09.326926
+356,Neuro Exp1,2 visual acuity experiments - second experiment!(~ 50 minutes),2,$8.00,2019-11-17 18:23:09.326931
+357,Brandi Schmidt,Answer a 3-minute survey about face masks!,2,$0.05,2019-11-16 14:23:09.326936
+358,Musicbed,Add Metadata to video clips,2,$0.54,2019-11-16 14:23:09.326940
+359,Noah Turk,Text Meaning Questionnaire,2,$0.20,2019-11-18 01:23:09.326944
+360,Daniel Kadvany,Answer questions about the 2020 Census in Spanish,2,$1.00,2019-11-15 14:23:09.326949
+361,Comprehend,Segment and align text between novel chapters and their summaries (~30 minutes),2,$0.01,2019-11-18 10:23:09.326954
+362,Martin Abel,"Short Survey - Hindi Speakers ($0.35 ~25 Indian Rupee, 8min)(~ 8 minutes)",2,$0.35,2019-11-17 20:23:09.326958
+363,Thor Russell,Rate the user's writing,2,$0.10,2019-11-18 13:23:09.326963
+364,Sameer,Label the requested items in the image,2,$0.07,2019-11-07 14:23:09.326968
+365,Alexey Kuznetsov,Create 7 tags for an Article,2,$0.06,2019-11-17 23:23:09.326972
+366,Ana Maria Soto,Label the peaks and valleys on the graph,2,$0.20,2019-11-13 14:23:09.326977
+367,EPL Admin,$0.38. Make Hypothetical Economic Decisions. Time: 10 minutes,2,$0.38,2019-10-08 00:00:00
+368,Relationship Research,Romantic Relationship Followup(~ 20 minutes),2,$4.00,2019-11-10 14:23:09.326994
+369,Chris,Get profile fields,2,$0.05,2019-11-18 12:23:09.326999
+370,Frank H. Durgin,Categorization Task and Survey(~ 13 minutes),1,$1.10,2019-11-18 08:23:09.327004
+371,Shopping Receipts,Extract General Data & Items From Shopping Receipt,2,$0.01,2019-11-18 02:23:09.327008
+372,Shopping Receipts,Extract Data From Shopping Receipt,2,$0.03,2019-11-18 06:23:09.327013
+373,rybn,Play the next move in chess game!!!,1,$0.01,2019-11-18 14:06:09.327018
+374,Alicia Mendez,Parenting and Caregiving Experiences ~45 min,1,$7.00,2019-11-11 14:23:09.327023
+375,Lisa A. Suzuki,Digital Transcripts and Emotions Survey,1,$1.50,2019-11-06 14:23:09.327027
+376,Noah Turk,Beat the System! (Creation),1,$1.60,2019-10-25 00:00:00
+377,Noah Turk,Beat the System! (Creation),1,$1.60,2019-10-24 00:00:00
+378,Noah Turk,Chat with a fellow conversationalist!,1,$1.87,2019-10-23 00:00:00
+379,Jesse D. Crosson,Congressional press release data collection,1,$1.10,2019-10-15 00:00:00
+380,FAI study,HIT for A15PHPJA7AWCS3,1,$3.00,2019-10-03 00:00:00
+381,FAI study,HIT for A10048W1LKR40,1,$3.00,2019-10-03 00:00:00
+382,FAI study,HIT for A3SGR153YCJ1XN,1,$3.00,2019-10-03 00:00:00
+383,Olivier Klein,HIT for A2AH0FADJ9PCE5,1,$4.00,2019-09-30 00:00:00
+384,Olivier Klein,HIT for A2FYQIZWV2UJHS,1,$4.00,2019-09-30 00:00:00
+385,Olivier Klein,HIT for A3HW4QDJB63OQ2,1,$3.00,2019-09-30 00:00:00
+386,Olivier Klein,HIT for A33KIELSFIQ02Q,1,$3.00,2019-09-30 00:00:00
+387,michelle,Quick Ben & Jerry's Survey,1,$0.03,2019-10-02 00:00:00
+388,Olivier Klein,HIT for A1RTLF0OVZI4QT,1,$3.00,2019-09-27 00:00:00
+389,Olivier Klein,HIT for A33KIELSFIQ02Q,1,$3.00,2019-09-27 00:00:00
+390,Olivier Klein,HIT for A3HW4QDJB63OQ2,1,$3.00,2019-09-27 00:00:00
+391,Olivier Klein,HIT for A2AH0FADJ9PCE5,1,$4.00,2019-09-26 00:00:00
+392,Olivier Klein,HIT for A2FYQIZWV2UJHS,1,$4.00,2019-09-26 00:00:00
+393,Olivier Klein,HIT for A14FPZMC9ENX8E,1,$3.00,2019-09-26 00:00:00
+394,Julie Yeterian & Sunny Dutra,U.S. Military Veterans' Thoughts and Preferences about Mental Health Treatment(~ 60 minutes),1,$7.50,2019-09-17 00:00:00
+395,Olivier Klein,HIT for A1U3UUELW55W65,1,$8.00,2019-09-06 00:00:00
+396,Olivier Klein,HIT for A1U5BE8XJRXKW3,1,$8.00,2019-09-06 00:00:00
+397,Olivier Klein,HIT for AK6K3ED4D1J8J,1,$3.00,2019-08-28 00:00:00
+398,Olivier Klein,HIT for A191V7PT3DQKDP,1,$3.00,2019-08-16 00:00:00
+399,Olivier Klein,HIT for A191V7PT3DQKDP,1,$3.00,2019-08-15 00:00:00
+400,Crowdsurf Support,Spanish: QC Reject - $0.20 per media minute,1,$0.20,2019-11-18 04:23:09.327306
+401,Chatbot for Car Dealers,Provide difference utterance for the given utterance!,1,$0.10,2019-06-30 00:00:00
+402,Jennifer Bakal,Answer a survey about Relationships and Pets,1,$1.00,2019-10-22 00:00:00
+403,UserBob,Upload 11-minute screencast of a MOBILE website,1,$6.00,2019-11-18 01:23:09.327342
+404,UserBob,Upload 2-minute screencast of a website,1,$0.60,2019-11-18 01:23:09.327352
+405,UserBob,Upload 25 minute screencast of an Android app,1,$13.75,2019-11-18 01:23:09.327360
+406,UserBob,Upload 15-minute screencast of a website (Age 55-66),1,$7.00,2019-11-18 01:23:09.327366
+407,UserBob,Upload 3-minute screencast of an iOS app,1,$2.75,2019-11-17 21:23:09.327371
+408,UserBob,Upload 1-minute screencast of a website,1,$0.40,2019-11-16 14:23:09.327377
+409,UserBob,Upload 1-minute screencast of a website,1,$0.40,2019-11-15 14:23:09.327381
+410,UserBob,Upload 1-minute screencast of a website,1,$0.40,2019-11-14 14:23:09.327385
+411,UserBob,Upload 1-minute screencast of a website,1,$0.40,2019-11-13 14:23:09.327390
+412,UserBob,Upload 1-minute screencast of a website,1,$0.40,2019-11-13 14:23:09.327396
+413,Paul Conway,"Recompense: Perceptions and Evaluations ~5 minutes, $0.25",1,$0.25,2019-05-10 00:00:00
+414,UserBob,Upload 2-minute screencast of a MOBILE website,1,$1.60,2019-11-10 14:23:09.327414
+415,UserBob,Upload 1-minute screencast of a website,1,$0.40,2019-11-10 14:23:09.327419
+416,UserBob,Upload 9-minute screencast of a MOBILE website (For A12DY4HHG6MYF0 only),1,$5.60,2019-11-06 14:23:09.327423
+417,Yale Institute for Network Science,HIT for A6U5ZHN5Y953Q,1,$2.50,2019-04-30 00:00:00
+418,EdgcumbeLab,How do our personalities interact with what we believe we see?,1,$0.05,2019-06-12 00:00:00
+419,L. Martin,Answer a survey about psychology and health,1,$1.00,2019-04-24 00:00:00
+420,UserBob,"Upload 5-minute screencast of a MOBILE website (Females 50+ only, please)",1,$2.30,2019-10-21 00:00:00
+421,UserBob,Upload 8-minute screencast of a MOBILE website (For A2KMJE72HDDVGP only),1,$4.80,2019-10-17 00:00:00
+422,Ten Edu,Beauty Sector Study,1,$0.01,2019-11-08 14:23:09.327500
+423,VWO Website Reviews,Share your opinion on design of a website,1,$0.20,2019-11-14 14:23:09.327505
+424,Xinyi Li,Memory task,1,$4.00,2019-05-14 00:00:00
+425,NLUResearch,"Qualification Test for ""Explain a Story"" task!",1,$0.90,2019-11-14 14:23:09.327581
+426,Ziming Li,Booking movie tickets for users,1,$0.07,2019-02-17 00:00:00
+427,Ziming Li,Booking movie tickets for users,1,$0.07,2019-02-16 00:00:00
+428,Lang Science,Does this segment contain any Minnan speech? (Requires Mozilla Firefox),1,$0.05,2019-11-18 10:23:09.327623
+429,LMU Psychologie,Psychologische Studie zu persönlichen Präferenzen,1,$1.50,2019-11-15 14:23:09.327630
+430,Noah,Ask complementary (second) question about text in image,1,$0.54,2019-02-01 00:00:00
+431,VWO Website Reviews,Tell your first impressions about a website design,1,$0.12,2019-10-03 00:00:00
+432,VWO Website Reviews,Provide quick feedback on website design,1,$0.12,2019-10-03 00:00:00
+433,Natalia,Stress Management Study,1,$2.50,2019-09-29 00:00:00
+434,Riley,Mastery in Sexual Minorities of Color(~ 15 minutes),1,$0.15,2019-10-15 00:00:00
+435,Language Research,Provide a URL to an image of machine-printed text in Hungarian,1,$0.06,2019-10-24 00:00:00
+436,David,Search Google for a Series of Keywords,1,$0.20,2019-11-18 00:23:09.327705
+437,Joshua Swift,Attitudes Toward Mental Health(~ 25 minutes),1,$0.50,2019-11-17 17:23:09.327712
+438,HRBlab,Part 2 of research study: Assessing perceptions of people’s behaviors in the context of alcohol use.(~ 40 minutes),1,$2.50,2019-11-15 14:23:09.327717
+439,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+440,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+441,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+442,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+443,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+444,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+445,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+446,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+447,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+448,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+449,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+450,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+451,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+452,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-10-14 00:00:00
+453,Jenna Damico,Sexual Harassment and Problem-Solving(~ 20 minutes),1,$0.40,2019-11-14 14:23:09.327868
+454,Noah,Answer question about text in image,1,$0.80,2019-01-11 00:00:00
+455,Noah,Answer question about text in image,1,$0.80,2019-01-10 00:00:00
+456,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327895
+457,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327900
+458,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327905
+459,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327915
+460,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327920
+461,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327924
+462,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327928
+463,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327933
+464,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327938
+465,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-11-11 14:23:09.327942
+466,LSAN,Answer a survey about faces and emotions,1,$1.00,2019-10-26 00:00:00
+467,Stanford HCI,HIT to repay,1,$0.01,2019-06-24 00:00:00
+468,Language Research,Provide a URL to an image of machine-printed text in Urdu,1,$0.06,2019-10-11 00:00:00
+469,LSAN,Answer a survey about faces and emotions.,1,$0.35,2018-12-18 00:00:00
+470,Kat Albrecht,5-Minute Survey,1,$2.00,2019-11-06 14:23:09.327992
+471,Noah Turk,Play a cooperative grid world game with a partner,1,$0.25,2019-01-02 00:00:00
+472,Noah Turk,Play a cooperative grid world game with a partner,1,$0.25,2018-12-31 00:00:00
+473,Language Research,Provide a URL to an image of machine-printed text in Uyghur,1,$0.06,2019-09-30 00:00:00
+474,VWO Website Reviews,Give feedback on design of a website,1,$0.16,2019-08-27 00:00:00
+475,UserLook,Makeup HIT for UserLook,1,$0.01,2019-09-26 00:00:00
+476,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+477,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+478,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+479,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+480,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+481,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+482,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+483,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+484,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+485,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+486,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+487,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+488,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+489,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-23 00:00:00
+490,CPHSS,Follow-up survey about your smoking behavior and preferences.,1,$0.75,2019-10-11 00:00:00
+491,SurveyComet,Compensation HIT for A2W55J9T0JDP2O(~ 1 minutes),1,$0.70,2019-11-18 14:21:09.328208
+492,SurveyComet,New Online Service - 1099 independent contractor verification tool(≈ 11 minutes),1,$1.10,2019-11-18 14:10:09.328214
+493,Keisha April,Parental Communications to Youth about the Police Survey (~ 15 minutes),1,$0.25,2019-11-18 13:51:09.328220
+494,Guy Voichek,Judgment and choices(~ 2 minutes),1,$0.20,2019-11-18 13:50:09.328225
+495,SurveyComet,Make predictions about political events $16. (~ 120 minutes),1,$16.00,2019-11-18 13:23:09.328229
+496,Noah Turk,Play a cooperative grid world game with a partner,1,$0.25,2018-12-18 00:00:00
+497,Noah Turk,Play a cooperative grid world game with a partner,1,$0.25,2018-12-18 00:00:00
+498,Andrew Bail,Compensation HIT(~ 1 minutes),1,$3.00,2019-11-18 10:23:09.328257
+499,Andrew Bail,Compensation HIT(~ 1 minutes),1,$2.00,2019-11-18 10:23:09.328263
+500,Social Innovations Lab,Compensation HIT(~ 1 minutes),1,$0.35,2019-11-17 14:23:09.328270
+501,Social Innovations Lab,Compensation HIT(~ 1 minutes),1,$0.75,2019-11-17 14:23:09.328274
+502,Social Innovations Lab,Compensation HIT(~ 1 minutes),1,$1.25,2019-11-17 14:23:09.328279
+503,Jutong Wen,Survey about Advertising for Chinese Americans,1,$0.35,2019-11-17 14:23:09.328283
+504,Andrew Bail,Compensation HIT(~ 1 minutes),1,$2.00,2019-11-17 14:23:09.328287
+505,Chloe Huelsnitz,Compensation HIT(~ 1 minutes),1,$1.25,2019-11-17 14:23:09.328295
+506,Chloe Huelsnitz,Compensation HIT(~ 1 minutes),1,$1.25,2019-11-16 14:23:09.328299
+507,RealCME,A health coach presentation and assessment,1,$3.00,2019-11-15 14:23:09.328304
+508,Adrian R Camilleri,Compensation HIT for A11N2XYG9AGJ30(~ 1 minutes),1,$7.00,2019-11-16 14:23:09.328308
+509,Online Research Studies,Compensation HIT(~ 1 minutes),1,$2.10,2019-11-16 14:23:09.328313
+510,Online Research Studies,Compensation HIT(~ 1 minutes),1,$2.10,2019-11-16 14:23:09.328317
+511,Project for a Better America,Compensation HIT for A2GBC9UWHCQ342(~ 1 minutes),1,$0.02,2019-11-16 14:23:09.328321
+512,Adolfo Escobedo,Compensation HIT for A2QG8DGOPT6F9P(~ 1 minutes),1,$1.34,2019-11-15 14:23:09.328325
+513,Adolfo Escobedo,Compensation HIT(~ 1 minutes),1,$0.67,2019-11-15 14:23:09.328330
+514,Adolfo Escobedo,Compensation HIT(~ 1 minutes),1,$0.67,2019-11-15 14:23:09.328334
+515,Adolfo Escobedo,Compensation HIT(~ 1 minutes),1,$0.67,2019-11-15 14:23:09.328338
+516,Adolfo Escobedo,Compensation HIT(~ 1 minutes),1,$0.67,2019-11-15 14:23:09.328342
+517,Maria Gendron,Compensation HIT(~ 1 minutes),1,$3.20,2019-11-15 14:23:09.328346
+518,Erika Hall,Compensation HIT(~ 1 minutes),1,$1.30,2019-11-14 14:23:09.328351
+519,Arsalan Heyarian,Compensation HIT(~ 1 minutes),1,$0.15,2019-11-14 14:23:09.328355
+520,Dr. A. Lee,Compensation HIT(~ 1 minutes),1,$0.45,2019-11-14 14:23:09.328359
+521,Dr. A. Lee,Compensation HIT for A2C2BC5NFQFCOC(~ 1 minutes),1,$0.45,2019-11-14 14:23:09.328363
+522,K Milanovic,Focal pAInt - Odd One Out Game & Survey,1,$0.05,2019-11-14 14:23:09.328367
+523,Martine,Compensation HIT(~ 1 minutes),1,$0.75,2019-11-14 14:23:09.328372
+524,Altsuss,Compensation HIT(~ 1 minutes),1,$0.50,2019-11-14 14:23:09.328376
+525,UNIV CATOLICA PORTUGUESA NIF 501082522,Compensation HIT(~ 1 minutes),1,$0.50,2019-11-14 14:23:09.328380
+526,Texas Research,Survey of Opinions (~ 10 minutes),1,$1.20,2019-11-15 14:23:09.328384
+527,Maria Gendron,Understanding Emotions Study(~ 20 minutes),1,$1.64,2019-11-13 14:23:09.328389
+528,Syntiant MTurk,Recording several phrases,1,$5.00,2019-11-13 14:23:09.328393
+529,CoEvol Lab,Compensation HIT for A2BQYGEFPAHH9Z(~ 1 minutes),1,$0.75,2019-11-13 14:23:09.328397
+530,Scabl,"Social Perceptions of Historical Places, Events, and Things(~ 10 minutes)",1,$1.00,2019-10-21 00:00:00
+531,Scabl,"Social Perceptions of Historical Places, Events, and Things(~ 10 minutes)",1,$1.00,2019-10-21 00:00:00
+532,V Job,Compensation HIT(~ 1 minutes),1,$4.50,2019-11-13 14:23:09.328426
+533,Insights Lab,Compensation for HIT you completed today(~ 1 minutes),1,$0.60,2019-11-12 14:23:09.328431
+534,Pallavi Babu,Compensation HIT for A1AZLJ3R5FQ9B7(~ 1 minutes),1,$1.80,2019-11-12 14:23:09.328435
+535,SocialCognitionResearchCologne,Incentivized game & self perception task(~ 4 minutes),1,$0.40,2019-11-18 09:23:09.328440
+536,CYF,"Do you think drivers have a preferential route between two frequently visited locations (e.g., home, work)?",1,$0.01,2019-11-12 14:23:09.328445
+537,Jocelyn Belanger,Compensation HIT for A39W71C7LPLRRQ(~ 1 minutes),1,$0.75,2019-11-11 14:23:09.328452
+538,NishiLab,HIT for A11UBOE8N877JJ,1,$6.00,2018-12-11 00:00:00
+539,W K Viscusi,Public Risk Survey 2019B,1,$1.90,2019-11-11 14:23:09.328514
+540,James Carney,Mental States and Culture 2(~ 8 minutes),1,$1.50,2019-11-11 14:23:09.328519
+541,MSRRedmond Labs,Re-tell us a story about an event in your life,1,$3.52,2019-11-18 13:23:09.328524
+542,Memory Consortium,Compensation HIT(~ 1 minutes),1,$2.51,2019-11-08 14:23:09.328529
+543,MLDataLabeler,Qualifying HIT for Semantic Segmentation Tasks - Up to $2.00 Bonus!,1,$0.01,2019-11-08 14:23:09.328533
+544,MLDataLabeler,Qualifying HIT for Bounding Box Tasks - Bonus up to $2.00 Depending on Performance!,1,$0.03,2019-11-08 14:23:09.328537
+545,MLDataLabeler,Qualifying HIT for Named Entity Recognition Tasks - Bonus up to $2.00 Depending on Performance!,1,$0.01,2019-11-08 14:23:09.328542
+546,Matthew Snyder,Compensation HIT for A3VNBFOI95P5SN(~ 1 minutes),1,$1.50,2019-11-08 14:23:09.328546
+547,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+548,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+549,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+550,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+551,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+552,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+553,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+554,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+555,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+556,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+557,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+558,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+559,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+560,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+561,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+562,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-09-09 00:00:00
+563,Rodrigo Dias,Compensation HIT for A31HZB0I5R758I(~ 1 minutes),1,$0.45,2019-11-08 14:23:09.328719
+564,Meta Lab,Compensation HIT(~ 1 minutes),1,$0.75,2019-11-07 14:23:09.328724
+565,Aykut Turkoglu,Answer a survey about a simple numeric game and complete a short questionnaire,1,$1.50,2019-11-18 00:23:09.328729
+566,Martin Abel,Compensation HIT(~ 1 minutes),1,$2.90,2019-11-06 14:23:09.328734
+567,Michael Clark,Student-Athlete Transition,1,$0.05,2019-09-07 00:00:00
+568,Jason Dana,Compensation HIT for A20EU0UH5K3VGE(~ 1 minutes),1,$2.00,2019-11-06 14:23:09.328750
+569,Jason Dana,Compensation HIT for A3GVUYY3TWRPZT(~ 1 minutes),1,$2.00,2019-11-06 14:23:09.328754
+570,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+571,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+572,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+573,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+574,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+575,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+576,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+577,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+578,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+579,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+580,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+581,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+582,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+583,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+584,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+585,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+586,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+587,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+588,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+589,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+590,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+591,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-07 00:00:00
+592,Language Understanding Lab,Provide questions based on sequence of images.,1,$0.08,2019-11-15 14:23:09.328981
+593,Jaime Frischwasser,A short survey on coworkers,1,$0.35,2019-11-05 14:23:09.328986
+594,Jeremy Pollack,Answer a 3-minute survey about conflict in your workplace,1,$0.25,2019-11-05 14:23:09.328990
+595,Stephanie Chan-Ahuja,Compensation HIT(~ 1 minutes),1,$0.80,2019-11-05 14:23:09.328995
+596,Decision Sciences,Compensation HIT(~ 1 minutes),1,$1.00,2019-11-05 14:23:09.328999
+597,Kinga Makovi,Compensation HIT(~ 1 minutes),1,$0.05,2019-11-04 14:23:09.329003
+598,Kinga Makovi,Compensation HIT(~ 1 minutes),1,$0.10,2019-11-04 14:23:09.329007
+599,kevin mudd,Understand the want to pay student-athletes,1,$0.01,2019-10-20 00:00:00
+600,Dylan Rice,Compensation HIT(~ 3 minutes),1,$2.35,2019-11-02 14:23:09.329025
+601,Anteater Technologies LLC,We Need Photos of Informational Signs - English Language Only,1,$0.10,2019-11-01 14:23:09.329032
+602,Memory Consortium,Compensation HIT(~ 1 minutes),1,$2.51,2019-11-02 14:23:09.329037
+603,Memory Consortium,Compensation HIT(~ 1 minutes),1,$2.51,2019-11-02 14:23:09.329041
+604,str11223344,Tell us what this item is - Soft Goods - Batch ID #30766,1,$0.07,2019-11-18 13:23:09.329045
+605,str11223344,Tell us what this item is - Furniture - Batch ID #30764,1,$0.07,2019-11-18 12:23:09.329051
+606,str11223344,Tell us what this item is - Electronics - Batch ID #30760,1,$0.09,2019-11-18 11:23:09.329058
+607,SoundingBox (Change Sciences Group),"User Test, Requires Mic, Windows or Mac, 7d56e4b9",1,$8.00,2019-11-18 09:23:09.329064
+608,Anteater Technologies LLC,We Need Photos of Directional Signs With Arrows In Them,1,$0.10,2019-10-31 14:23:09.329069
+609,Anteater Technologies LLC,We Need Photos of Short/Small Receipts,1,$0.10,2019-10-31 14:23:09.329073
+610,Peter Washington,Have a family member with autism? Get paid to refer them!,1,$1.50,2019-11-17 14:23:09.329077
+611,Joel Ginn,Compensation HIT for A0223835ZWZNUV587DJU(~ 1 minutes),1,$1.00,2019-11-01 14:23:09.329081
+612,SD & EoC Lab,Social attitudes in pictures,1,$2.50,2019-11-17 14:23:09.329086
+613,Sajad Rezaei,All about Cryptocurrencies: A gamified survey on your personal view,1,$7.00,2019-11-05 14:23:09.329090
+614,Acme Data Collection,"NATIVE MANDARIN CHINESE SPEAKERS, record 50 things you would say to a microwave. DO NOT READ THE PROMPTS. (20190502_SY_zh)",1,$3.25,2019-05-03 00:00:00
+615,Yichi Zhang,Compensation HIT for A2O2Y99RA9GFUJ(~ 1 minutes),1,$1.50,2019-10-31 14:23:09.329107
+616,Atefeh Yazdanparast,Online shopping behavior survey,1,$0.80,2019-11-11 14:23:09.329112
+617,Mary Marshall,Payment HIT for Lapsed Timer(~ 5 minutes),1,$1.00,2019-10-31 14:23:09.329116
+618,PickFu,"Take a 1-question survey (US-based, 45-54, Home Dwelling, Female, 35-44, 25-34, Apt Dwelling)",1,$0.10,2019-11-18 10:23:09.329121
+619,Marketing,Yelp Survey Alain II(~ 5 minutes),1,$1.00,2019-09-01 00:00:00
+620,Susan W Mcroy,Health Belief Texts Sentiment Analysis - Set 5 (Duration - 100 minutes),1,$0.03,2019-11-14 14:23:09.329138
+621,Susan W Mcroy,Health Belief Texts Sentiment Analysis - Set 4 (Duration - 100 minutes),1,$0.03,2019-11-14 14:23:09.329143
+622,Hillary Parent,Compensation HIT(~ 1 minutes),1,$0.60,2019-10-30 14:23:09.329147
+623,Kellogg Kteily Lab,Compensation HIT for A23EEEX9LR9X6Z(~ 1 minutes),1,$2.00,2019-10-30 14:23:09.329151
+624,Marketing,Yelp Survey Alain I(~ 5 minutes),1,$0.50,2019-08-31 00:00:00
+625,UW Gaming Research Lab,Looking for Overwatch game players to answer a survey about loot boxes,1,$4.50,2019-11-15 14:23:09.329167
+626,Yale Institute for Network Science,HIT for A2W3DI02JARCZM,1,$2.00,2018-11-29 00:00:00
+627,Charles Ebert,Short Study (Approx. 4 minutes 30 seconds),1,$0.80,2019-10-13 00:00:00
+628,parkseongkuk,[CORUS-TEST-1] data input behavior test,1,$1.00,2019-11-14 14:23:09.329194
+629,Positly,Answer 20 Trivia Questions (~5 mins),1,$0.50,2019-11-18 11:23:09.329199
+630,Scott,10 minute - Short and Easy Survey(~ 10 minutes),1,$0.10,2019-11-18 14:18:09.329204
+631,AudioKite,Listen to a pop song and answer a survey about it.,1,$0.13,2019-11-18 14:18:09.329209
+632,Kiara St. Cyr,How often do you buy these ingredients,1,$1.00,2019-10-29 14:23:09.329214
+633,Yu Research Group,Compensation HIT(~ 1 minutes),1,$3.00,2019-10-29 14:23:09.329220
+634,parkseongkuk,[CORUS-TEST-2] data input behavior test,1,$0.50,2019-11-14 14:23:09.329225
+635,Yichi Zhang,Compensation HIT for A2O2Y99RA9GFUJ(~ 1 minutes),1,$1.50,2019-10-29 14:23:09.329229
+636,Adam Oozeerally,Answer a survey about shopping for flights/holidays/hotels on mobile apps.,1,$1.00,2019-10-31 14:23:09.329234
+637,ConsumerLabW,Compensation HIT(~ 1 minutes),1,$0.10,2019-10-28 14:23:09.329238
+638,Blanco Services Development,Determine your own risk appetite,1,$0.50,2019-10-28 14:23:09.329242
+639,Harriette Rothwell,Central American Philanthropic Environment Survey,1,$0.05,2019-11-17 14:23:09.329246
+640,SurveyComet,Compensation HIT for A24B5UF6RMHYGX(~ 1 minutes),1,$0.30,2019-10-28 00:00:00
+641,Acme Data Collection,FEMALE ONLY: Native French Canadian speakers: Make 10 short recordings (20191105_RH),1,$2.00,2019-11-07 14:23:09.329263
+642,Acme Data Collection,Make 20 short recordings (20191112_SPY),1,$1.50,2019-11-13 14:23:09.329268
+643,Kaitlyn,Political Participation,1,$0.25,2019-11-12 14:23:09.329272
+644,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-28 00:00:00
+645,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-28 00:00:00
+646,Carlos M. Salinas,Estudio Compra de Vehículos 2019,1,$0.11,2019-11-04 14:23:09.329299
+647,SoundingBox (Change Sciences Group),"User Test, Requires Windows or Mac, 977e35e1",1,$2.00,2019-11-12 14:23:09.329303
+648,str11223344,Tell us what this item is - General Contents - Batch ID #30667,1,$0.07,2019-11-12 14:23:09.329308
+649,str11223344,Tell us what this item is - Soft Goods - Batch ID #30665,1,$0.07,2019-11-12 14:23:09.329312
+650,Darren Thorpe,Task 3.0 Find Portfolio Company Website [Deals Backfill Prod],1,$0.04,2019-04-08 00:00:00
+651,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329328
+652,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329332
+653,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329337
+654,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329341
+655,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329345
+656,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329349
+657,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329353
+658,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329358
+659,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329362
+660,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329366
+661,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329370
+662,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329374
+663,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329379
+664,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329385
+665,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329389
+666,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329394
+667,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329398
+668,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329402
+669,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329406
+670,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329410
+671,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329415
+672,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329419
+673,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329423
+674,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329427
+675,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329431
+676,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329435
+677,Simon Trang,SECOND PART: SURVEY ABOUT IT USAGE AT THE WORKPLACE,1,$2.00,2019-11-16 14:23:09.329440
+678,Elana A Wohrstein,Workplace Personality Questionnaire,1,$1.00,2019-11-16 14:23:09.329444
+679,Acme Data Collection,NATIVE SPANISH ONLY: Make 10 short recordings (20191112_RH_ES),1,$0.75,2019-11-12 14:23:09.329448
+680,Acme Data Collection,"Native speakers of MANDARIN, make 10 short recordings (20191112_RH)",1,$0.75,2019-11-12 14:23:09.329453
+681,AB Lab - University of Calgary,Compensation HIT(~ 1 minutes),1,$20.00,2019-10-26 00:00:00
+682,SurveyComet,Compensation HIT for A3BOH90BIZF1IK(~ 1 minutes),1,$0.80,2019-10-26 00:00:00
+683,van Anders Lab,Compensation HIT(~ 1 minutes),1,$1.00,2019-10-26 00:00:00
+684,Panel,Extract purchased items from a shopping receipt,1,$0.08,2019-11-18 14:22:33.329491
+685,Panel,Extract purchased items from a shopping receipt (3-5 items),1,$0.04,2019-11-18 14:22:32.329497
+686,Hyeong-Gyu Choi,Answer a survey about your opinions about mental issues and people with mental issues,1,$0.70,2019-11-18 14:22:27.329501
+687,Justin Murphy,Answer a survey about your opinions,1,$0.05,2019-11-18 14:13:09.329505
+688,Merica,Testing the limits of visual attention,1,$0.15,2019-11-18 14:03:09.329510
+689,Jun Hyun Ryoo,"Evaluate the Movie (~2 Minutes, $0.10)",1,$0.10,2019-11-18 13:59:09.329515
+690,PL,Expose corporate owners in PDF filings,1,$0.15,2019-11-18 13:23:09.329522
+691,mami,"Copy data (full adress) from a web site ""focusvision"" country by country (France, US, Japan), ...)",1,$0.03,2019-11-15 14:23:09.329527
+692,Roman Welden,Survey about Human Behavior,1,$0.80,2019-11-18 13:23:09.329532
+693,oakheart,Market Research Survey (3-min Short),1,$0.50,2019-11-08 14:23:09.329537
+694,George Schmilinsky,7 Minute Survey,1,$0.05,2019-11-18 11:23:09.329541
+695,Speechpad,Verbatim - Transcribe - A2801586 (Audio length: 1 minute),1,$1.00,2019-11-18 11:23:09.329546
+696,Angela Listy,Education and Finance Survey (Not all respondents will qualify),1,$0.42,2019-11-18 11:23:09.329551
+697,Christoph Trattner,Answer a survey about online recipes,1,$0.50,2019-11-18 09:23:09.329555
+698,Eileen Wentink,Survey consumer behavior 5 minutes,1,$0.10,2019-11-18 08:23:09.329560
+699,Wolfgang Kinkel,Test an iPhone stethoscope app,1,$1.00,2019-11-18 07:23:09.329565
+700,Christoph Trattner,Answer a survey about online recipes,1,$0.50,2019-11-18 09:23:09.329572
+701,Eileen Wentink,Survey consumer behavior 5 minutes,1,$0.10,2019-11-18 08:23:09.329577
+702,Speechpad,Edit Video Captions A2804477 (Video length: 6 minutes 52 seconds),1,$2.00,2019-11-18 08:23:09.329581
+703,Speechpad,Edit Video Captions A2804458 (Video length: 5 minutes 44 seconds),1,$2.00,2019-11-18 08:23:09.329586
+704,Wolfgang Kinkel,Test an iPhone stethoscope app,1,$1.00,2019-11-18 07:23:09.329591
+705,Speechpad,Verbatim - Transcribe - A2800900 (Audio length: 1 minute),1,$1.00,2019-11-18 07:23:09.329596
+706,Gopala Krishna,sentences from jumbled words,1,$0.75,2019-11-18 06:23:09.329601
+707,Shujun Li,PAltRoid: Mobile Apps Privacy Scoring (Survey),1,$4.00,2019-10-25 00:00:00
+708,Shakhnoza,Marketing Research Survey,1,$0.05,2019-11-04 14:23:09.329622
+709,Shakhnoza,Marketing Research Survey,1,$0.05,2019-11-04 14:23:09.329626
+710,Vigneshwaran Subbaraju,Describle the step by step approach in achieving the household,1,$1.00,2019-11-18 02:23:09.329631
+711,complexity,Putting photos in order,1,$0.50,2019-10-26 00:00:00
+712,Ximing SHENG,Answer a survey about skincare products,1,$0.05,2019-11-17 23:23:09.329647
+713,The Site Mechanics,Write a tweet,1,$0.25,2019-11-17 22:23:09.329653
+714,salman saud alotaibi,Ethnic food truck survey. It would take 5-7 minutes. Get $0.10,1,$0.10,2019-11-17 19:23:09.329658
+715,George A. Nikolaidis,Personality Assessment,1,$1.50,2019-10-23 00:00:00
+716,UToledo Family & Child Development Lab,Survey about parenting and feeding in a two-parent household of preschool aged children. Obtain spouse/partner permission.,1,$0.01,2019-11-10 14:23:09.329674
+717,Jerry,Compensation HIT(~ 1 minutes),1,$2.00,2019-10-25 00:00:00
+718,Jerry,Compensation HIT(~ 1 minutes),1,$2.00,2019-10-25 00:00:00
+719,Barbara Chaparro,Qualification for Media Satisfaction,1,$0.01,2019-11-17 14:23:09.329701
+720,UM Survey,Quick survey about online social network use (must be a typical user of a social network to complete),1,$0.10,2019-11-17 14:23:09.329706
+721,TechMT,Does the image contain a living room?,1,$0.01,2019-11-17 14:23:09.329710
+722,Cardcow,Enter Photographer/Publisher Information for a Postcard,1,$0.02,2019-11-17 14:23:09.329714
+723,PickFu,"Take a 1-question survey (US-based, Female)",1,$0.09,2019-11-18 14:13:09.329719
+724,PickFu,"Take a 1-question survey (US-based, Dog Owner)",1,$0.10,2019-11-18 14:01:09.329723
+725,Ali Momen,Assessing your perception of Human and Robot Stimuli,1,$0.25,2019-11-17 14:23:09.329728
+726,UW Madison,Collect Smartphone Applications and Alexa Skills Information (Not for users who have completed our survey before),1,$7.00,2019-11-17 14:23:09.329733
+727,Brian,Marketing survey,1,$1.00,2019-11-17 14:23:09.329739
+728,Brian,Answer a survey about technology and work,1,$1.00,2019-11-17 14:23:09.329744
+729,Cindy Guo,What Twitch Bot do Popular Streamers Use?,1,$0.10,2019-11-17 14:23:09.329748
+730,Timo,Behavior of e-commerce consumers/users,1,$0.05,2019-11-17 14:23:09.329752
+731,Neev,A Survey of Individual Judgment and Decision Making (2-3 minutes),1,$0.45,2019-11-05 14:23:09.329756
+732,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+733,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+734,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+735,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+736,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+737,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+738,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+739,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+740,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+741,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+742,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+743,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+744,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+745,Matthew Gallagher,2nd Follow Up Survey on the Impact of Hurricane Harvey(~ 90 minutes),1,$6.00,2019-08-26 00:00:00
+746,claire youjeong hong,A survey(6 min) based on a short video with sound,1,$0.64,2019-11-18 09:23:09.329910
+747,KC Paterno,Answer a survey about your opinions,1,$0.01,2019-11-16 14:23:09.329915
+748,IC3 AI team,Speech quality assessment - Part 1: Qualification stage,1,$0.25,2019-11-16 14:23:09.329920
+749,AIG,Collect data from a Website,1,$0.05,2019-11-16 14:23:09.329924
+750,a. l. macneill,Compensatory hit for worker ID A3RIR8EO1SDV3K (all other workers will be rejected),1,$0.07,2019-11-16 14:23:09.329929
+751,Kouchaki Lab,Compensation for HIT on 10/24/19(~ 1 minutes),1,$0.57,2019-10-24 00:00:00
+752,Lily,American Identity and Leadership Study,1,$0.85,2019-11-16 14:23:09.329945
+753,CrowdLab,"Payment HIT for ""[Up to $4.25 in < 15 mins] Do a task with an AI as your partner""",1,$0.50,2019-11-16 14:23:09.329949
+754,Brandi Schmidt,Answer a 3-minute survey about face masks!,1,$0.05,2019-11-16 14:23:09.329954
+755,Sarah Jacobs,Answer a survey about potential new Breaded Fish 2 pack products for small households - Canada,1,$2.00,2019-11-16 14:23:09.329958
+756,yanjun,Answer a survey about your opinions,1,$0.07,2019-11-16 14:23:09.329962
+757,Cindy Guo,What Twitch Bot do Popular Streamers Use?,1,$0.01,2019-11-16 14:23:09.329966
+758,WikiRealty,"Short Article Summary | Shelbyville, KY",1,$2.00,2019-11-18 12:23:09.329970
+759,WikiRealty,"Short Article Summary | Roanoke, TX",1,$2.00,2019-11-18 12:23:09.329975
+760,WikiRealty,"Short Article Summary | Wilmette, IL",1,$2.00,2019-11-18 12:23:09.329983
+761,WikiRealty,"Short Article Summary | Mount Pleasant, SC",1,$2.00,2019-11-18 12:23:09.329988
+762,WikiRealty,"Short Article Summary | Andersonville, IL",1,$2.00,2019-11-18 12:23:09.329993
+763,WikiRealty,"Short Article Summary | Harker Heights, TX",1,$2.00,2019-11-18 12:23:09.329997
+764,WikiRealty,"Short Article Summary | Maple Grove, MN",1,$2.00,2019-11-18 12:23:09.330002
+765,WikiRealty,"Short Article Summary | Atlanta, GA",1,$2.00,2019-11-18 12:23:09.330007
+766,WikiRealty,"Short Article Summary | Lakeview, IL",1,$2.00,2019-11-18 12:23:09.330012
+767,Ola,Answer a survey about Technical and Vocational Education and Training in Nigeria,1,$0.15,2019-11-13 14:23:09.330016
+768,Samuel Gershman,Time Estimation Task #3!(~ 60 minutes),1,$5.00,2019-11-13 14:23:09.330021
+769,Samuel Gershman,Time Estimation Task #2!(~ 60 minutes),1,$5.00,2019-11-13 14:23:09.330025
+770,Samuel Gershman,Time Estimation Task #5!(~ 60 minutes),1,$5.00,2019-11-13 14:23:09.330029
+771,Samuel Gershman,Time Estimation Task #6!(~ 60 minutes),1,$5.00,2019-11-13 14:23:09.330033
+772,Giuseppe Catenazzo,Hello smartphone,1,$0.01,2019-11-18 10:23:09.330038
+773,SurveyComet,Compensation HIT(~ 1 minutes),1,$1.00,2019-10-24 00:00:00
+774,Maureen Elshof,Answer a survey about Nike,1,$0.05,2019-11-18 07:23:09.330055
+775,Maureen Elshof,Answer a survey about Nike,1,$0.05,2019-11-18 07:23:09.330060
+776,Rece Capture,Audit The Receipt Transcription,1,$0.01,2019-11-18 05:23:09.330065
+777,AIG,Collect data from a Website,1,$0.02,2019-11-15 14:23:09.330070
+778,Mansi Mehrotra,Quick survey on sharing personal information,1,$0.10,2019-11-12 14:23:09.330074
+779,Polymeros Chrysochou,Compensation HIT for AHLK9SWDJHBBZ(~ 1 minutes),1,$0.20,2019-10-23 00:00:00
+780,Rece Capture,Receipt Transcription,1,$0.03,2019-11-17 21:23:09.330090
+781,WikiRealty,"Short Article Summary | Winnetka, IL",1,$2.00,2019-11-17 21:23:09.330096
+782,Giuliana Isabella,Investigating song perception(~ 20 minutes),1,$3.00,2019-11-13 14:23:09.330100
+783,Declan,Accounting Software Survey,1,$0.05,2019-11-07 14:23:09.330105
+784,Brian,Website user experience survey,1,$0.50,2019-11-15 14:23:09.330109
+785,BHS Lab,Numerical Judgment Survey,1,$1.00,2019-11-15 14:23:09.330113
+786,BHS Lab,Numerical Judgment Survey,1,$1.00,2019-11-15 14:23:09.330117
+787,Mikhaila Calice,Public perceptions of AI technology,1,$1.00,2019-11-15 14:23:09.330121
+788,Benjamin Cox,Collect contact information for elected officials,1,$0.01,2019-11-15 14:23:09.330126
+789,Konstantin,Personality Traits and Recommender Systems,1,$1.50,2019-11-15 14:23:09.330130
+790,Romilla Chowdhuri,Evaluate Fitbit and Apple Watch,1,$0.50,2019-11-15 14:23:09.330136
+791,PickFu,Take a 1-question survey (US-based),1,$0.04,2019-11-18 14:13:09.330140
+792,Matthew Yalch,Child and Adult Relationship Study (Women only),1,$0.75,2019-10-25 00:00:00
+793,Nicole D.,"New Orleans: Survey about Sleep, Napping & Phone Use (~8 mins)",1,$1.00,2019-11-15 14:23:09.330157
+794,Nicole D.,"Nashville: Survey about Sleep, Napping & Phone Use (~8 mins)",1,$1.00,2019-11-15 14:23:09.330162
+795,Ivan Spajic,Koliko imate godina?,1,$0.10,2019-11-15 14:23:09.330166
+796,Tobias Heinrich,Survey about U.S. politics,1,$0.15,2019-11-18 14:16:09.330171
+797,Jared K. Clemons,The purpose of this study is to better understand people's political beliefs.,1,$0.50,2019-11-15 14:23:09.330175
+798,Nicole D.,"Las Vegas: Survey about Sleep, Napping & Phone Use (~8 mins)",1,$1.00,2019-11-15 14:23:09.330180
+799,CereProc Ltd,Speech Synthesis Listening Test,1,$6.00,2019-11-15 14:23:09.330184
+800,Benjamin Cox,Collect contact information for elected officials,1,$0.01,2019-11-15 14:23:09.330190
+801,Konstantin,Personality Traits and Recommender Systems,1,$1.50,2019-11-15 14:23:09.330194
+802,Romilla Chowdhuri,Evaluate Fitbit and Apple Watch,1,$0.50,2019-11-15 14:23:09.330198
+803,PickFu,Take a 1-question survey (US-based),1,$0.04,2019-11-18 14:13:09.330202
+804,Matthew Yalch,Child and Adult Relationship Study (Women only),1,$0.75,2019-10-25 00:00:00
+805,Nicole D.,"New Orleans: Survey about Sleep, Napping & Phone Use (~8 mins)",1,$1.00,2019-11-15 14:23:09.330219
+806,Nicole D.,"Nashville: Survey about Sleep, Napping & Phone Use (~8 mins)",1,$1.00,2019-11-15 14:23:09.330224
+807,Ivan Spajic,Koliko imate godina?,1,$0.10,2019-11-15 14:23:09.330228
+808,Tobias Heinrich,Survey about U.S. politics,1,$0.15,2019-11-18 14:16:09.330235
+809,Jared K. Clemons,The purpose of this study is to better understand people's political beliefs.,1,$0.50,2019-11-15 14:23:09.330240
+810,Nicole D.,"Las Vegas: Survey about Sleep, Napping & Phone Use (~8 mins)",1,$1.00,2019-11-15 14:23:09.330244
+811,CereProc Ltd,Speech Synthesis Listening Test,1,$6.00,2019-11-15 14:23:09.330248
+812,Kickstand Communications,"We are conducting a survey about parents, auto insurance and finances!",1,$0.25,2019-11-15 14:23:09.330253
+813,Brian,Survey about your work experiences,1,$1.00,2019-11-15 14:23:09.330257
+814,Jessica Benson,Memory and Cognition Study Eligibility Survey (~ 10 minutes),1,$0.10,2019-11-15 14:23:09.330264
+815,Jared K. Clemons,The purpose of this study is to better understand people's political beliefs.,1,$0.50,2019-11-15 14:23:09.330268
+816,kerry,Opinion survey,1,$0.50,2019-11-15 14:23:09.330272
+817,kerry,Opinion survey,1,$0.25,2019-11-15 14:23:09.330276
+818,kerry,Opinion survey,1,$0.30,2019-11-15 14:23:09.330281
+819,oakheart,Market Research Survey (4-min Short),1,$1.00,2019-11-11 14:23:09.330285
+820,Natalie L Homa,"Mothers, answer a survey about your opinions regarding your infant's feeding behavior.",1,$0.10,2019-11-12 14:23:09.330289
+821,Alexandru Ariciu,Answer a survey about your opinions,1,$0.01,2019-11-15 14:23:09.330293
+822,DataRep,Answer a 3 MIN survey about jewelry and sustainability,1,$0.40,2019-11-15 14:23:09.330297
+823,Zach,Survey on Patriot fans and merchandise,1,$0.50,2019-11-15 14:23:09.330302
+824,Zach,Survey on Cavaliers fans and merchandise,1,$0.50,2019-11-15 14:23:09.330306
+825,Zhongqiang Huang,3-Minute Consumer Experience Survey - 191118(~ 3 minutes),1,$0.50,2019-11-18 09:23:09.330310
+826,Pierre Rozanski,Test an android app for learning french language and answer a survey,1,$0.80,2019-11-15 14:23:09.330315
+827,Cenk Kocas,Survey on interpersonal trust in the workplace,1,$0.50,2019-05-02 00:00:00
+828,Evian Luo,Smartphone Operating System Survey: iOS and Android,1,$0.08,2019-11-14 14:23:09.330333
+829,Larry Wallace,Answer a survey about your opinions,1,$0.02,2019-11-14 14:23:09.330337
+830,Larry Wallace,Answer a survey about your opinions,1,$0.02,2019-11-14 14:23:09.330341
+831,Jessica Benson,Memory and Cognition Study Part One (~ 25 minutes),1,$0.75,2019-11-11 14:23:09.330346
+832,Relationship Research,Romantic Relationship Followup(~ 20 minutes),1,$4.00,2019-11-16 14:23:09.330350
+833,Adelaide CompCogSci,Adelaide Basic Qualification HIT,1,$0.03,2019-11-17 20:23:09.330354
+834,TechMT,Classify the image as containing a bedroom or not,1,$0.01,2019-11-14 14:23:09.330359
+835,Simone Tang,Compensation(~ 1 minutes),1,$0.50,2019-10-22 00:00:00
+836,Jessica Benson,Memory and Cognition Study Part Two (~ 25 minutes),1,$1.00,2019-11-12 14:23:09.330376
+837,Raluca Cozma,Answer a survey about news stories,1,$0.80,2019-11-14 14:23:09.330380
+838,mi zhou,关于对中国消费者购买行为的研究,1,$0.80,2019-11-13 14:23:09.330384
+839,kerry,Opinion survey,1,$0.10,2019-11-14 14:23:09.330389
+840,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-28 00:00:00
+841,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-28 00:00:00
+842,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-28 00:00:00
+843,Laura Boman,Compensation HIT(~ 1 minutes),1,$0.15,2019-10-22 00:00:00
+844,Laura Boman,Compensation HIT(~ 1 minutes),1,$0.15,2019-10-22 00:00:00
+845,Matthew Gallagher,Mental Health and Well-being in Veterans (ages 18-65)(~ 90 minutes),1,$5.00,2019-10-28 00:00:00
+846,Ten Edu,Quick ONLY 10 multi choice for Small Business owners in Florida,1,$0.01,2019-10-02 00:00:00
+847,Adam Joosten,"You are talking to a voice assistant, try to book a hotel or airbnb",1,$0.04,2019-11-14 14:23:09.330468
+848,Jessica Benson,Memory and Cognition Study Part Three(~ 35 minutes),1,$2.00,2019-11-14 14:23:09.330473
+849,Titouan,Answer a survey about your credit card preferences,1,$0.02,2019-11-14 14:23:09.330478
+850,TeamZ,Restaurant Receipt/Invoice -- TRANSCRIPTION <Increased Price>,1,$0.09,2019-11-18 14:17:09.330482
+851,PickFu,Take a 1-question survey (US-based),1,$0.10,2019-11-18 13:54:09.330487
+852,Questionnaires,People’s feelings about social events-Survey,1,$1.00,2019-11-11 14:23:09.330492
+853,Riley Krotz,Complete a short (approximately 5 minutes) survey about being an employee,1,$0.25,2019-11-18 13:23:09.330498
+854,PickFu,"Take a 1-question survey (US-based, 55-64)",1,$0.30,2019-11-18 13:23:09.330503
+855,Thor Russell,Rate the user's reading,1,$0.10,2019-11-18 13:23:09.330508
+856,Emma Stockdale,Your future self questionnaire,1,$0.30,2019-11-18 12:23:09.330513
+857,Erika Carlson,Moral character photo rating survey 5/5(~ 20 minutes),1,$9.50,2019-11-17 14:23:09.330518
+858,Rachyl Jackson,Answer a short survey about financial services.,1,$0.50,2019-11-14 14:23:09.330522
+859,Jared K. Clemons,The purpose of this study is to better understand people's political beliefs.,1,$0.15,2019-11-14 14:23:09.330526
+860,Marieke,Watch and evaluate images and video's,1,$1.00,2019-11-14 14:23:09.330531
+861,Areum Cho,Consumer Choice Study (< 2 minutes),1,$0.10,2019-11-18 01:23:09.330535
+862,Yong Wang,CBA态度,1,$0.15,2019-11-15 14:23:09.330540
+863,Marianne Muyia,Survey about coffee and convenience,1,$0.01,2019-11-15 14:23:09.330544
+864,Jason Gainous,Short Public Opinion Survey - Paid Immediately,1,$0.30,2019-11-06 14:23:09.330548
+865,Justine F,Answer a simple survey about a co-worker,1,$1.00,2019-11-09 14:23:09.330553
+866,Ajifolokun Agboola Roseline,Answer a survey about preferred conflict styles at the workplace,1,$0.10,2019-11-15 14:23:09.330557
+867,NIKITA SAMOYLOV,Answer survey #55407,1,$0.03,2019-11-13 14:23:09.330561
+868,Jeremy Pollack,"""Conflict & Decision-Making"" | A 5-minute study",1,$0.50,2019-11-10 14:23:09.330565
+869,joshuaruby,New product for readers. It's a chrome extension.,1,$0.02,2019-11-13 14:23:09.330570
+870,Marketing,Make a healthcare-related choice and answer survey questions (~10 minutes),1,$1.00,2019-11-13 14:23:09.330574
+871,Duckworth Lab,"Survey two of ""organizing living or working spaces"" study(~ 5 minutes)",1,$8.00,2019-11-15 14:23:09.330578
+872,Patrick Akopyan,public health survey,1,$0.01,2019-11-18 13:23:09.330582
+873,Aya,Credit card Rating and Ranking,1,$0.01,2019-11-13 14:23:09.330589
+874,Dustin Howard,6 minute survey for homeowners,1,$0.11,2019-11-13 14:23:09.330594
+875,LVHoldingsNV,Test a FREE sign up method only an email input is needed,1,$0.11,2019-11-18 12:23:09.330598
+876,Jose Luis Daniel,Answer a survey about work and life values,1,$0.35,2019-10-18 00:00:00
+877,James Garcia,Answer a survey about being an LGBT Person of Color and your experiences with Sexual Racism,1,$0.10,2019-11-09 14:23:09.330616
+878,Matthew Gallagher,Mental Health and Wellbeing in Cancer Survivors(~ 75 minutes),1,$8.00,2019-10-21 00:00:00
+879,Dani Bassett Lab,Compensation HIT for e-mailed workers ONLY - You WILL be rejected if not sent this HIT - Bassett Lab,1,$0.01,2019-10-21 00:00:00
+880,Jared K. Clemons,The purpose of this study is to better understand people's political beliefs.,1,$0.15,2019-11-13 14:23:09.330643
+881,Jeremy Shapiro,3 minute survey plus chance to send money to charity.,1,$0.25,2019-11-13 14:23:09.330648
+882,Sam Nelson,Copy and Paste Article Title and Article Body from URL Link,1,$0.06,2019-11-15 14:23:09.330652
+883,Yvonne Lin,Strategies for Soundless Video Advertisements,1,$0.05,2019-11-06 14:23:09.330656
+884,founders,Correct conversation insights (~5min),1,$0.50,2019-11-18 03:23:09.330661
+885,Jaeger,Diaper Pail Product Survey,1,$0.01,2019-11-16 14:23:09.330666
+886,Giselle E Antoine,Problem Solving & Prizes,1,$0.50,2019-11-17 23:23:09.330670
+887,Jaeger,Diaper Pail Product Survey,1,$0.01,2019-11-16 14:23:09.330675
+888,Jessica Benson,Memory and Cognition Study Part Two(~ 25 minutes),1,$1.00,2019-11-12 14:23:09.330679
+889,Speechfeedback,Rate the quality of computer-generated speech - Korean@South Korea native only [#8759],1,$1.00,2019-11-14 14:23:09.330683
+890,Ashesh Mukherjee,Followup academic survey on charitable behavior (need qualification),1,$0.80,2019-11-12 14:23:09.330688
+891,Emmanuel Jinor,Market Survey - (Only qualified respondents will receive an Mturk reward),1,$0.12,2019-11-17 17:23:09.330692
+892,Shiva,A survey on consumer behavior and identity,1,$0.40,2019-11-12 14:23:09.330697
+893,Jessica Benson,Memory and Cognition Study Part Three(~ 35 minutes),1,$2.00,2019-11-14 14:23:09.330701
+894,Jessica Benson,Memory and Cognition Study Part One (~ 25 minutes),1,$0.75,2019-11-14 14:23:09.330705
+895,Jessica Benson,Memory and Cognition Study Part One (~ 25 minutes),1,$0.75,2019-11-14 14:23:09.330709
+896,TAP Lab FSU,Understanding people's prior experiences,1,$15.00,2019-11-12 14:23:09.330714
+897,Martin Fredriksson,Copy/paste text in a document,1,$0.01,2019-11-18 14:18:09.330718
+898,Stefan Hock,Academic survey (less than 5 minutes in length) - USE SMARTPHONE TO COMPLETE,1,$0.20,2019-11-18 13:56:09.330722
+899,Qiang Ning (AllenNLP),DO NOT WORK ON THIS (TESTING),1,$0.01,2019-11-15 14:23:09.330727
+900,Jessica Benson,Memory and Cognition Study Part One (~ 25 minutes),1,$0.75,2019-11-14 14:23:09.330733
+901,TAP Lab FSU,Understanding people's prior experiences,1,$15.00,2019-11-12 14:23:09.330737
+902,Martin Fredriksson,Copy/paste text in a document,1,$0.01,2019-11-18 14:17:09.330741
+903,Stefan Hock,Academic survey (less than 5 minutes in length) - USE SMARTPHONE TO COMPLETE,1,$0.20,2019-11-18 13:56:09.330746
+904,Qiang Ning (AllenNLP),DO NOT WORK ON THIS (TESTING),1,$0.01,2019-11-15 14:23:09.330750
+905,Affective Science & Health Laboratory,Compensation HIT(~ 1 minutes),1,$2.50,2019-11-14 14:23:09.330755
+906,Sian Brooke,Answer a survey on what you think about data and privacy.,1,$2.00,2019-11-12 14:23:09.330759
+907,Dimitrios Tsivrikos,Un sondage rapide de dix minutes maximum,1,$1.00,2019-11-15 14:23:09.330763
+908,Sian Brooke,Answer a survey on what you think about data and privacy.,1,$2.00,2019-11-12 14:23:09.330767
+909,Ethan Porter,Answer a survey about politic and attitudes,1,$0.50,2019-11-12 14:23:09.330775
+910,Matthew Gallagher,Mental Health and Wellbeing in Cancer Survivors(~ 75 minutes),1,$8.00,2019-10-20 00:00:00
+911,EPL Admin,$0.38. Make Hypothetical Economic Decisions. Time: 10 minutes,1,$0.38,2019-10-08 00:00:00
+912,Ashvini,Short survey about cell identification,1,$0.25,2019-11-16 14:23:09.330804
+913,Kyusong Lee,academisch onderzoek met enquête over vertrouwen,1,$0.30,2019-11-12 14:23:09.330809
+914,Roberto Hoyle,Answer questions about how much you feel satisfied with specific WeChat features,1,$2.00,2019-11-12 14:23:09.330813
+915,Yingli,Employee behavior,1,$1.00,2019-11-12 14:23:09.330818
+916,Ashley,Day 9 (Invite Only Survey)(~ 1 minutes),1,$0.15,2019-11-18 10:23:09.330831
+917,Yingli,Employee behavior,1,$2.92,2019-11-12 14:23:09.330836
+918,Yingli,Employee behavior,1,$2.00,2019-11-12 14:23:09.330841
+919,Yingli,Employee behavior,1,$6.00,2019-11-12 14:23:09.330845
+920,Yingli,Employee behavior,1,$2.20,2019-11-12 14:23:09.330849
+921,Aneesh Gupta,Agile: Textbook Guidance vs Corporate Behaviour,1,$0.50,2019-11-05 14:23:09.330853
+922,Dara Javan,Find employees of a list of given companies,1,$0.12,2019-11-12 14:23:09.330858
+923,Matthew Gallagher,Mental Health and Wellbeing in Cancer Survivors(~ 75 minutes),1,$8.00,2019-10-20 00:00:00
+924,Ordbogen A/S,Survey about writing habits and applications (6-8 min),1,$1.00,2019-11-05 14:23:09.330875
+925,Satyugjit Singh Virk,Fill our customer journey for Lyft Shared Ride,1,$5.00,2019-11-14 14:23:09.330880
+926,Mengqi Fan,Commercial Experiment,1,$0.05,2019-11-16 14:23:09.330885
+927,Kyusong Lee,Akademiskt frågeformulär för undersökning om förtroende.,1,$0.30,2019-11-11 14:23:09.330889
+928,Jessica Benson,Memory and Cognition Study Part One (~ 25 minutes),1,$0.75,2019-11-11 14:23:09.330893
+929,Emmanuel,Research and Collect data,1,$0.02,2019-11-11 14:23:09.330900
+930,Frank H. Durgin,Categorization Task and Survey(~ 13 minutes),1,$1.10,2019-11-18 08:23:09.330904
+931,Frank H. Durgin,Categorization Task and Survey(~ 13 minutes),1,$1.10,2019-11-18 08:23:09.330909
+932,MLDataGatherer,the taskTitle,1,$0.01,2019-11-18 14:21:09.330914
+933,Arsalan Heyarian,Behavior Survey - Day 11 (Invite Only)(~ 1 minutes),1,$0.15,2019-11-17 17:23:09.330919
+934,Surbhi Chawla,Answer a survey about your SoulCycle experience!,1,$0.05,2019-11-13 14:23:09.330923
+935,Heather,STEM Sort 2,1,$7.50,2019-11-11 14:23:09.330928
+936,Heather,Hover Study,1,$6.00,2019-11-12 14:23:09.330932
+937,Ignite Media Solutions,"Transcribe name and address from two audio recordings (name, address) and partially filled address info",1,$0.06,2019-11-18 14:20:09.330936
+938,Junghwa Choi,10 minutes survey about behaviors before/during/after tornadoes,1,$1.00,2019-11-11 14:23:09.330941
+939,Shopping Receipts,Extract Data From Shopping Receipt,1,$0.05,2019-11-18 02:23:09.330945
+940,Ignite Media Solutions,"FRENCH - Transcribe name and address from two audio recordings (name, address) and partially filled address info",1,$0.11,2019-11-18 14:06:09.330950
+941,Steven M Lee,Answer page number of search query,1,$0.02,2019-09-06 00:00:00
+942,Ignite Media Solutions,FRENCH - Transcribe email from audio recording,1,$0.03,2019-11-18 13:56:09.330967
